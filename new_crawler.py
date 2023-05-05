@@ -3,11 +3,12 @@ from bs4 import BeautifulSoup
 import pandas as pd
 import json
 from apartment import Apartment
+from time import sleep
 
 
 def get_df(base_url):
     # Set up empty lists for data
-    # TODO: add much more lists of data like (pets_allowed, wifi, etc.)
+    # TODO: add much more lists of attributes like (pets_allowed, wifi, etc.)
     rates = []
     num_of_guests = []
     num_of_rooms = []
@@ -48,6 +49,9 @@ def get_df(base_url):
             pets_allowed.append(curr_apartment.get_pets_allowed())
             names.append(curr_apartment.get_name())
 
+            # Added 2 seconds sleep between each request in order to prevent block by the website
+            sleep(2)
+
             # In order to save the apartments data in folder, uncomment the below rows
             # json_string = json.dumps(json_obj, indent=4)
             # if os.getcwd().find("LA") == -1:
@@ -78,10 +82,9 @@ def main():
     df_concatenated = pd.concat(df_list)
 
 if __name__ == "__main__":
-    # Each url is the first page out of 15 pages,
-    # in order to iterate through all 15 pages we have to add the string "&page=<num>"
-    # in the function which will send the request
+    # Each url is the first page out of 15 pages
     urls = [
         "https://www.airbnb.com/s/Los-Angeles--CA--United-States/homes?tab_id=home_tab&refinement_paths%5B%5D=%2Fhomes&checkin=2023-04-01&checkout=2023-04-08&source=structured_search_input_header&search_type=search_query"
     ]
+    # main()
     get_df(urls[0])
