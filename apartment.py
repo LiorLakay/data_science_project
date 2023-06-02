@@ -21,7 +21,7 @@
 #
 # }
 from enum import Enum
-
+import math
 
 class Section(Enum):
     POLICIES = 'POLICIES_DEFAULT'
@@ -40,6 +40,9 @@ class Apartment:
     def get_super_host(self):
         return self.data['metadata']['loggingContext']['eventDataLogging']['isSuperhost']
 
+    def get_location(self):
+        return self.data['metadata']['sharingConfig']['location']
+
     def get_host_rate(self):
         sections_list = self.data['sections']
         for section in sections_list:
@@ -53,11 +56,16 @@ class Apartment:
         room_type = self.data['metadata']['loggingContext']['eventDataLogging']['roomType']
         if room_type.lower().find('private room') != -1:
             return 1
+
         else:
             sections_list = self.data['sections']
             for section in sections_list:
                 if section['sectionId'] == Section.SLEEP_ARRANGEMENT1.value or section['sectionId'] == Section.SLEEP_ARRANGEMENT2.value:
-                    return int(len(section['section']['arrangementDetails']))
+                    room_count = len(section['section']['arrangementDetails'])
+                    return room_count
+
+            return math.ceil(self.data['metadata']['loggingContext']['eventDataLogging']['personCapacity'] / 2)
+
 
     def get_num_of_guests(self):
         return self.data['metadata']['loggingContext']['eventDataLogging']['personCapacity']
@@ -89,6 +97,7 @@ class Apartment:
                         for amenity in group['amenities']:
                             if amenity['icon'] == amenity_icon_name:
                                 return amenity['available']
+        return False
 
     def get_wifi(self):
         return self._get_amenity('SYSTEM_WI_FI', 'Internet and office')
@@ -117,11 +126,5 @@ class Apartment:
     def get_refrigerator(self):
         return self._get_amenity('SYSTEM_REFRIGERATOR', 'Kitchen and dining')
 
-    def get_balcony(self):
-        pass
-
     def get_free_parking(self):
         return self._get_amenity('SYSTEM_MAPS_CAR_RENTAL', 'Parking and facilities')
-
-    def check_free_cancellation(self):
-        pass
