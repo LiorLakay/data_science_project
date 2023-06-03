@@ -1,0 +1,271 @@
+,Location,Name,Rooms,Guests,Pets,Wifi,Free_parking,Refrigerator,Kitchen,Smoke_alarm,Cooling,Heating,TV,Bed_lines,Washer,Super_host,Price,Review_count,Total_rate
+0,Chicago,Room in Austin,1,1,False,True,True,True,True,True,True,True,True,True,True,False,232,36,4.81
+1,Chicago,Apartment in Near North Side,1,2,True,True,True,True,True,,True,True,True,True,True,False,1278,173,4.83
+2,Chicago,Room in Pilsen Historic District,1,1,False,True,True,True,True,True,True,True,True,,,True,393,15,5.0
+3,Chicago,Room in Austin,1,2,False,True,True,True,True,True,True,True,True,True,True,False,307,34,4.97
+4,Chicago,Apartment in Hyde Park,1,3,True,True,True,True,True,,True,True,True,True,True,False,592,20,4.3
+5,Chicago,Room in Brighton Park,1,2,False,True,True,True,True,True,True,True,True,True,,False,301,24,4.71
+6,Chicago,Room in Hyde Park,1,1,False,True,True,True,True,,True,True,True,True,True,True,666,218,4.99
+7,Chicago,Apartment in West Rogers Park,1,2,False,True,,True,True,,True,True,True,True,,True,674,9,4.78
+8,Chicago,Apartment in East Rogers Park,1,2,False,True,,True,True,,True,True,True,,True,False,671,0,0.0
+9,Chicago,Apartment in Hyde Park,1,2,False,True,True,,True,,True,True,True,True,True,False,789,28,4.71
+10,Chicago,Room in Douglas Park,1,1,False,True,True,True,True,True,,True,,,,False,269,228,4.42
+11,Chicago,Apartment in Chicago,1,2,False,True,True,True,True,,True,True,True,True,,False,473,8,5.0
+12,Chicago,Condo in Chicago,1,2,True,True,True,,True,,True,True,True,,,False,767,12,4.83
+13,Chicago,Apartment in Austin,3,4,False,True,True,True,True,,True,True,True,True,True,False,490,53,4.42
+14,Chicago,Apartment in West Rogers Park,1,4,False,True,True,True,True,,True,True,True,True,,True,731,6,5.0
+15,Chicago,Apartment in Hyde Park,1,3,True,True,True,True,True,,True,True,True,True,True,False,649,15,4.13
+16,Chicago,Place to stay in Bridgeport,1,2,False,True,True,True,True,,True,True,True,,True,False,422,3,4.67
+17,Chicago,Room in North Park,1,1,False,True,True,True,True,True,True,True,,True,True,True,377,35,4.74
+18,Chicago,Room in Chicago,1,1,False,True,True,True,True,True,True,True,True,True,True,False,232,36,4.81
+19,Chicago,Room in Chicago,1,2,False,True,True,True,True,True,True,True,True,True,True,False,307,34,4.97
+20,Chicago,Apartment in Chicago,1,2,True,True,True,True,True,,True,True,True,True,True,False,1278,173,4.83
+21,Chicago,Room in Chicago,1,2,False,True,True,True,True,True,True,True,True,True,,False,301,24,4.71
+22,Chicago,Apartment in Chicago,1,3,True,True,True,True,True,,True,True,True,True,True,False,592,20,4.3
+23,Chicago,Room in Chicago,1,1,False,True,True,True,True,True,True,True,True,,,True,393,15,5.0
+24,Chicago,Apartment in Chicago,3,4,False,True,True,True,True,,True,True,True,True,True,False,490,53,4.42
+25,Chicago,Apartment in Chicago,1,2,False,True,True,True,True,,True,True,True,True,,False,473,8,5.0
+26,Chicago,Apartment in Chicago,1,2,False,True,,True,True,,True,True,True,True,,True,674,9,4.78
+27,Chicago,Apartment in Chicago,1,2,False,True,True,,True,,True,True,True,True,True,False,789,28,4.71
+28,Chicago,Apartment in Chicago,1,2,False,True,,True,True,,True,True,True,,True,False,671,0,0.0
+29,Chicago,Room in Chicago,1,1,False,True,True,True,True,,True,True,True,True,True,True,666,218,4.99
+30,Chicago,Room in Chicago,1,1,False,True,True,True,True,True,,True,,,,False,269,228,4.42
+31,Maywood,Shared room in Maywood,1,1,False,True,True,,True,,,True,True,True,,False,149,65,4.45
+32,Chicago,Room in Chicago,1,1,False,True,True,True,True,True,True,True,,True,True,True,377,35,4.74
+33,Chicago,Apartment in Chicago,1,4,False,True,True,True,True,,True,True,True,True,,True,731,6,5.0
+34,Chicago,Place to stay in Chicago,1,2,False,True,True,True,True,,True,True,True,,True,False,422,3,4.67
+35,Chicago,Condo in Chicago,1,2,True,True,True,,True,,True,True,True,,,False,767,12,4.83
+36,Chicago,Room in Chicago,1,1,False,True,True,True,True,True,True,True,True,True,True,False,232,36,4.81
+37,Chicago,Apartment in Chicago,1,2,True,True,True,True,True,,True,True,True,True,True,False,1278,173,4.83
+38,Chicago,Room in Chicago,1,1,False,True,True,True,True,True,True,True,True,,,True,393,15,5.0
+39,Chicago,Room in Chicago,1,2,False,True,True,True,True,True,True,True,True,True,True,False,307,34,4.97
+40,Chicago,Apartment in Chicago,1,3,True,True,True,True,True,,True,True,True,True,True,False,592,20,4.3
+41,Chicago,Room in Chicago,1,2,False,True,True,True,True,True,True,True,True,True,,False,301,24,4.71
+42,Chicago,Room in Chicago,1,1,False,True,True,True,True,,True,True,True,True,True,True,666,218,4.99
+43,Chicago,Apartment in Chicago,1,2,False,True,,True,True,,True,True,True,True,,True,674,9,4.78
+44,Chicago,Apartment in Chicago,1,2,False,True,,True,True,,True,True,True,,True,False,671,0,0.0
+45,Chicago,Apartment in Chicago,1,2,False,True,True,,True,,True,True,True,True,True,False,789,28,4.71
+46,Chicago,Room in Chicago,1,1,False,True,True,True,True,True,,True,,,,False,269,228,4.42
+47,Chicago,Apartment in Chicago,1,2,False,True,True,True,True,,True,True,True,True,,False,473,8,5.0
+48,Chicago,Condo in Chicago,1,2,True,True,True,,True,,True,True,True,,,False,767,12,4.83
+49,Chicago,Apartment in Chicago,3,4,False,True,True,True,True,,True,True,True,True,True,False,490,53,4.42
+50,Chicago,Apartment in Chicago,1,4,False,True,True,True,True,,True,True,True,True,,True,731,6,5.0
+51,Chicago,Apartment in Chicago,1,3,True,True,True,True,True,,True,True,True,True,True,False,649,15,4.13
+52,Chicago,Place to stay in Chicago,1,2,False,True,True,True,True,,True,True,True,,True,False,422,3,4.67
+53,Chicago,Room in Chicago,1,1,False,True,True,True,True,True,True,True,,True,True,True,377,35,4.74
+54,Chicago,Room in Chicago,1,1,False,True,True,True,True,True,True,True,True,True,True,False,232,36,4.81
+55,Chicago,Room in Chicago,1,2,False,True,True,True,True,True,True,True,True,True,True,False,307,34,4.97
+56,Chicago,Apartment in Chicago,1,2,True,True,True,True,True,,True,True,True,True,True,False,1278,173,4.83
+57,Chicago,Apartment in Chicago,1,3,True,True,True,True,True,,True,True,True,True,True,False,592,20,4.3
+58,Chicago,Apartment in Chicago,1,2,False,True,True,,,,True,True,True,True,,False,1305,6,4.0
+59,Chicago,Room in Chicago,1,1,False,True,True,True,True,,True,True,True,True,True,True,666,218,4.99
+60,Chicago,Room in Chicago,1,1,False,True,True,True,True,True,True,True,True,,,True,393,15,5.0
+61,Chicago,Apartment in Chicago,1,2,False,True,True,,True,,True,True,True,True,True,False,789,28,4.71
+62,Chicago,Apartment in Chicago,1,2,False,True,,True,True,,True,True,True,True,,True,674,9,4.78
+63,Chicago,Room in Chicago,1,2,False,True,True,True,True,True,True,True,True,True,,False,301,24,4.71
+64,Chicago,Apartment in Chicago,1,3,True,True,True,True,True,,True,True,True,True,True,False,649,15,4.13
+65,Chicago,Apartment in Chicago,1,2,False,True,True,True,True,,True,True,True,True,,False,473,8,5.0
+66,Chicago,Room in Chicago,1,1,False,True,True,True,True,True,,True,,,,False,269,228,4.42
+67,Chicago,Hotel room in Chicago,1,1,False,True,True,,,,True,True,,True,True,False,277,1325,4.55
+68,Chicago,Room in Chicago,1,1,False,True,True,,True,True,True,True,True,,True,True,557,0,0.0
+69,Chicago,Apartment in Chicago,1,2,False,True,,True,True,,True,True,True,,True,False,671,0,0.0
+70,Chicago,Loft in Chicago,2,3,,True,True,True,True,,,True,True,,,False,838,3,5.0
+71,Chicago,Room in Chicago,1,1,False,True,True,True,True,True,True,True,,True,True,True,377,35,4.74
+72,Chicago,Room in Chicago,1,1,False,True,True,True,True,True,True,True,True,True,True,False,232,36,4.81
+73,Chicago,Apartment in Chicago,1,2,True,True,True,True,True,,True,True,True,True,True,False,1278,173,4.83
+74,Chicago,Room in Chicago,1,1,False,True,True,True,True,True,True,True,True,,,True,393,15,5.0
+75,Chicago,Room in Chicago,1,2,False,True,True,True,True,True,True,True,True,True,True,False,307,34,4.97
+76,Chicago,Apartment in Chicago,1,3,True,True,True,True,True,,True,True,True,True,True,False,592,20,4.3
+77,Chicago,Room in Chicago,1,2,False,True,True,True,True,True,True,True,True,True,,False,301,24,4.71
+78,Chicago,Room in Chicago,1,1,False,True,True,True,True,,True,True,True,True,True,True,666,218,4.99
+79,Chicago,Apartment in Chicago,1,2,False,True,,True,True,,True,True,True,True,,True,674,9,4.78
+80,Chicago,Apartment in Chicago,1,2,False,True,,True,True,,True,True,True,,True,False,671,0,0.0
+81,Chicago,Apartment in Chicago,1,2,False,True,True,,True,,True,True,True,True,True,False,789,28,4.71
+82,Chicago,Room in Chicago,1,1,False,True,True,True,True,True,,True,,,,False,269,228,4.42
+83,Chicago,Apartment in Chicago,1,2,False,True,True,True,True,,True,True,True,True,,False,473,8,5.0
+84,Chicago,Condo in Chicago,1,2,True,True,True,,True,,True,True,True,,,False,767,12,4.83
+85,Chicago,Apartment in Chicago,3,4,False,True,True,True,True,,True,True,True,True,True,False,490,53,4.42
+86,Chicago,Apartment in Chicago,1,4,False,True,True,True,True,,True,True,True,True,,True,731,6,5.0
+87,Chicago,Apartment in Chicago,1,3,True,True,True,True,True,,True,True,True,True,True,False,649,15,4.13
+88,Chicago,Place to stay in Chicago,1,2,False,True,True,True,True,,True,True,True,,True,False,422,3,4.67
+89,Chicago,Room in Chicago,1,1,False,True,True,True,True,True,True,True,,True,True,True,377,35,4.74
+90,Chicago,Room in Chicago,1,1,False,True,True,True,True,True,True,True,True,True,True,False,232,36,4.81
+91,Chicago,Apartment in Chicago,1,2,True,True,True,True,True,,True,True,True,True,True,False,1278,173,4.83
+92,Chicago,Room in Chicago,1,2,False,True,True,True,True,True,True,True,True,True,True,False,307,34,4.97
+93,Chicago,Apartment in Chicago,1,3,True,True,True,True,True,,True,True,True,True,True,False,592,20,4.3
+94,Chicago,Room in Chicago,1,2,False,True,True,True,True,True,True,True,True,True,,False,301,24,4.71
+95,Chicago,Room in Chicago,1,1,False,True,True,True,True,True,True,True,True,,,True,393,15,5.0
+96,Chicago,Apartment in Chicago,3,4,False,True,True,True,True,,True,True,True,True,True,False,490,53,4.42
+97,Chicago,Apartment in Chicago,1,2,False,True,True,True,True,,True,True,True,True,,False,473,8,5.0
+98,Chicago,Apartment in Chicago,1,2,False,True,,True,True,,True,True,True,True,,True,674,9,4.78
+99,Chicago,Apartment in Chicago,1,2,False,True,True,,True,,True,True,True,True,True,False,789,28,4.71
+100,Chicago,Apartment in Chicago,1,2,False,True,,True,True,,True,True,True,,True,False,671,0,0.0
+101,Chicago,Room in Chicago,1,1,False,True,True,True,True,,True,True,True,True,True,True,666,218,4.99
+102,Chicago,Apartment in Chicago,1,4,False,True,True,True,True,,True,True,True,True,,True,731,6,5.0
+103,Chicago,Room in Chicago,1,1,False,True,True,True,True,True,,True,,,,False,269,228,4.42
+104,Chicago,Room in Chicago,1,1,False,True,True,True,True,True,True,True,,True,True,True,377,35,4.74
+105,Maywood,Shared room in Maywood,1,1,False,True,True,,True,,,True,True,True,,False,149,65,4.45
+106,Chicago,Apartment in Chicago,1,3,True,True,True,True,True,,True,True,True,True,True,False,569,5,3.8
+107,Chicago,Condo in Chicago,1,2,True,True,True,,True,,True,True,True,,,False,767,12,4.83
+108,Chicago,Room in Chicago,1,1,False,True,True,True,True,True,True,True,True,True,True,False,232,36,4.81
+109,Chicago,Apartment in Chicago,1,2,True,True,True,True,True,,True,True,True,True,True,False,1278,173,4.83
+110,Chicago,Room in Chicago,1,2,False,True,True,True,True,True,True,True,True,True,True,False,307,34,4.97
+111,Chicago,Apartment in Chicago,1,3,True,True,True,True,True,,True,True,True,True,True,False,592,20,4.3
+112,Chicago,Room in Chicago,1,2,False,True,True,True,True,True,True,True,True,True,,False,301,24,4.71
+113,Chicago,Room in Chicago,1,1,False,True,True,True,True,True,True,True,True,,,True,393,15,5.0
+114,Chicago,Apartment in Chicago,3,4,False,True,True,True,True,,True,True,True,True,True,False,490,53,4.42
+115,Chicago,Apartment in Chicago,1,2,False,True,True,True,True,,True,True,True,True,,False,473,8,5.0
+116,Chicago,Apartment in Chicago,1,2,False,True,,True,True,,True,True,True,True,,True,674,9,4.78
+117,Chicago,Apartment in Chicago,1,2,False,True,True,,True,,True,True,True,True,True,False,789,28,4.71
+118,Chicago,Apartment in Chicago,1,2,False,True,,True,True,,True,True,True,,True,False,671,0,0.0
+119,Chicago,Room in Chicago,1,1,False,True,True,True,True,,True,True,True,True,True,True,666,218,4.99
+120,Chicago,Apartment in Chicago,1,4,False,True,True,True,True,,True,True,True,True,,True,731,6,5.0
+121,Chicago,Room in Chicago,1,1,False,True,True,True,True,True,,True,,,,False,269,228,4.42
+122,Chicago,Room in Chicago,1,1,False,True,True,True,True,True,True,True,,True,True,True,377,35,4.74
+123,Maywood,Shared room in Maywood,1,1,False,True,True,,True,,,True,True,True,,False,149,65,4.45
+124,Chicago,Apartment in Chicago,1,3,True,True,True,True,True,,True,True,True,True,True,False,569,5,3.8
+125,Chicago,Condo in Chicago,1,2,True,True,True,,True,,True,True,True,,,False,767,12,4.83
+126,Chicago,Room in Chicago,1,1,False,True,True,True,True,True,True,True,True,True,True,False,232,36,4.81
+127,Chicago,Apartment in Chicago,1,3,True,True,True,True,True,,True,True,True,True,True,False,592,20,4.3
+128,Chicago,Apartment in Chicago,1,2,True,True,True,True,True,,True,True,True,True,True,False,1278,173,4.83
+129,Chicago,Room in Chicago,1,2,False,True,True,True,True,True,True,True,True,True,True,False,307,34,4.97
+130,Chicago,Room in Chicago,1,2,False,True,True,True,True,True,True,True,True,True,,False,301,24,4.71
+131,Chicago,Apartment in Chicago,3,4,False,True,True,True,True,,True,True,True,True,True,False,490,53,4.42
+132,Chicago,Apartment in Chicago,1,2,False,True,,True,True,,True,True,True,True,,True,674,9,4.78
+133,Chicago,Room in Chicago,1,1,False,True,True,True,True,True,True,True,True,,,True,393,15,5.0
+134,Chicago,Apartment in Chicago,1,3,True,True,True,True,True,,True,True,True,True,True,False,569,5,3.8
+135,Chicago,Room in Chicago,1,1,False,True,True,True,True,,True,True,True,True,True,True,666,218,4.99
+136,Chicago,Apartment in Chicago,1,2,False,True,True,True,True,,True,True,True,True,,False,473,8,5.0
+137,Maywood,Shared room in Maywood,1,1,False,True,True,,True,,,True,True,True,,False,149,65,4.45
+138,Chicago,Room in Chicago,1,1,False,True,True,True,True,True,,True,,,,False,269,228,4.42
+139,Chicago,Apartment in Chicago,1,2,False,True,True,,True,,True,True,True,True,True,False,789,28,4.71
+140,Chicago,Room in Chicago,1,3,False,True,True,True,True,True,True,True,,True,True,False,330,100,4.55
+141,Chicago,Apartment in Chicago,1,4,False,True,True,True,True,,True,True,True,True,,True,731,6,5.0
+142,Chicago,Room in Chicago,1,1,False,True,True,True,True,True,True,True,,True,True,True,377,35,4.74
+143,Chicago,Apartment in Chicago,1,3,True,True,True,True,True,,True,True,True,True,True,False,649,15,4.13
+144,Chicago,Room in Chicago,1,1,False,True,True,True,True,True,True,True,True,True,True,False,232,36,4.81
+145,Chicago,Apartment in Chicago,1,2,True,True,True,True,True,,True,True,True,True,True,False,1278,173,4.83
+146,Chicago,Room in Chicago,1,1,False,True,True,True,True,True,True,True,True,,,True,393,15,5.0
+147,Chicago,Room in Chicago,1,2,False,True,True,True,True,True,True,True,True,True,True,False,307,34,4.97
+148,Chicago,Apartment in Chicago,1,3,True,True,True,True,True,,True,True,True,True,True,False,592,20,4.3
+149,Chicago,Room in Chicago,1,2,False,True,True,True,True,True,True,True,True,True,,False,301,24,4.71
+150,Chicago,Room in Chicago,1,1,False,True,True,True,True,,True,True,True,True,True,True,666,218,4.99
+151,Chicago,Apartment in Chicago,1,2,False,True,,True,True,,True,True,True,True,,True,674,9,4.78
+152,Chicago,Apartment in Chicago,1,2,False,True,,True,True,,True,True,True,,True,False,671,0,0.0
+153,Chicago,Apartment in Chicago,1,2,False,True,True,,True,,True,True,True,True,True,False,789,28,4.71
+154,Chicago,Room in Chicago,1,1,False,True,True,True,True,True,,True,,,,False,269,228,4.42
+155,Chicago,Apartment in Chicago,1,2,False,True,True,True,True,,True,True,True,True,,False,473,8,5.0
+156,Chicago,Condo in Chicago,1,2,True,True,True,,True,,True,True,True,,,False,767,12,4.83
+157,Chicago,Apartment in Chicago,3,4,False,True,True,True,True,,True,True,True,True,True,False,490,53,4.42
+158,Chicago,Apartment in Chicago,1,4,False,True,True,True,True,,True,True,True,True,,True,731,6,5.0
+159,Chicago,Apartment in Chicago,1,3,True,True,True,True,True,,True,True,True,True,True,False,649,15,4.13
+160,Chicago,Place to stay in Chicago,1,2,False,True,True,True,True,,True,True,True,,True,False,422,3,4.67
+161,Chicago,Room in Chicago,1,1,False,True,True,True,True,True,True,True,,True,True,True,377,35,4.74
+162,Chicago,Room in Chicago,1,1,False,True,True,True,True,True,True,True,True,True,True,False,232,36,4.81
+163,Chicago,Apartment in Chicago,1,2,True,True,True,True,True,,True,True,True,True,True,False,1278,173,4.83
+164,Chicago,Apartment in Chicago,1,3,True,True,True,True,True,,True,True,True,True,True,False,592,20,4.3
+165,Chicago,Apartment in Chicago,1,2,False,True,,True,True,,True,True,True,True,,True,674,9,4.78
+166,Chicago,Room in Chicago,1,1,False,True,True,True,True,True,True,True,True,,,True,393,15,5.0
+167,Chicago,Apartment in Chicago,1,2,False,True,True,,True,,True,True,True,True,True,False,789,28,4.71
+168,Chicago,Apartment in Chicago,1,3,True,True,True,True,True,,True,True,True,True,True,False,649,15,4.13
+169,Maywood,Shared room in Maywood,1,1,False,True,True,,True,,,True,True,True,,False,149,65,4.45
+170,Chicago,Room in Chicago,1,2,False,True,True,True,True,True,True,True,True,True,,False,301,24,4.71
+171,Chicago,Apartment in Chicago,1,4,False,True,True,True,True,,True,True,True,True,,True,731,6,5.0
+172,Chicago,Room in Chicago,1,1,False,True,True,True,True,True,True,True,,True,True,True,377,35,4.74
+173,Chicago,Place to stay in Chicago,1,2,False,True,True,True,True,,True,True,True,,True,False,422,3,4.67
+174,Chicago,Room in Chicago,1,1,False,True,True,,True,True,True,True,True,,True,True,557,0,0.0
+175,Chicago,Room in Chicago,1,2,False,True,True,True,True,True,True,True,True,True,True,False,307,34,4.97
+176,Chicago,Apartment in Chicago,1,2,False,True,,True,True,,True,True,True,,True,False,671,0,0.0
+177,Chicago,Shared room in Chicago,1,1,False,True,True,True,True,,True,True,True,True,True,False,191,50,4.88
+178,Chicago,Hotel room in Chicago,1,1,False,True,True,,,,True,True,,True,True,False,277,1325,4.55
+179,Chicago,Loft in Chicago,2,3,,True,True,True,True,,,True,True,,,False,838,3,5.0
+180,Chicago,Room in Chicago,1,1,False,True,True,True,True,True,True,True,True,True,True,False,232,36,4.81
+181,Chicago,Apartment in Chicago,1,2,True,True,True,True,True,,True,True,True,True,True,False,1278,173,4.83
+182,Chicago,Apartment in Chicago,1,3,True,True,True,True,True,,True,True,True,True,True,False,592,20,4.3
+183,Chicago,Room in Chicago,1,1,False,True,True,True,True,True,True,True,True,,,True,393,15,5.0
+184,Chicago,Room in Chicago,1,2,False,True,True,True,True,True,True,True,True,True,True,False,307,34,4.97
+185,Chicago,Apartment in Chicago,1,2,False,True,,True,True,,True,True,True,True,,True,674,9,4.78
+186,Chicago,Room in Chicago,1,1,False,True,True,True,True,,True,True,True,True,True,True,666,218,4.99
+187,Chicago,Room in Chicago,1,2,False,True,True,True,True,True,True,True,True,True,,False,301,24,4.71
+188,Chicago,Room in Chicago,1,1,False,True,True,True,True,True,,True,,,,False,269,228,4.42
+189,Chicago,Apartment in Chicago,1,2,False,True,True,,True,,True,True,True,True,True,False,789,28,4.71
+190,Chicago,Apartment in Chicago,1,2,False,True,,True,True,,True,True,True,,True,False,671,0,0.0
+191,Chicago,Apartment in Chicago,1,4,False,True,True,True,True,,True,True,True,True,,True,731,6,5.0
+192,Chicago,Apartment in Chicago,1,3,True,True,True,True,True,,True,True,True,True,True,False,649,15,4.13
+193,Chicago,Condo in Chicago,1,2,True,True,True,,True,,True,True,True,,,False,767,12,4.83
+194,Chicago,Apartment in Chicago,3,4,False,True,True,True,True,,True,True,True,True,True,False,490,53,4.42
+195,Chicago,Room in Chicago,1,1,False,True,True,True,True,True,True,True,,True,True,True,377,35,4.74
+196,Chicago,Place to stay in Chicago,1,2,False,True,True,True,True,,True,True,True,,True,False,422,3,4.67
+197,Chicago,Apartment in Chicago,1,2,False,True,True,True,True,,True,True,True,True,,False,473,8,5.0
+198,Chicago,Room in Chicago,1,1,False,True,True,True,True,True,True,True,True,True,True,False,232,36,4.81
+199,Chicago,Apartment in Chicago,1,2,True,True,True,True,True,,True,True,True,True,True,False,1278,173,4.83
+200,Chicago,Apartment in Chicago,1,3,True,True,True,True,True,,True,True,True,True,True,False,592,20,4.3
+201,Chicago,Room in Chicago,1,1,False,True,True,True,True,True,True,True,True,,,True,393,15,5.0
+202,Chicago,Apartment in Chicago,1,2,False,True,True,,True,,True,True,True,True,True,False,789,28,4.71
+203,Chicago,Apartment in Chicago,1,2,False,True,,True,True,,True,True,True,True,,True,674,9,4.78
+204,Chicago,Apartment in Chicago,1,2,False,True,,True,True,,True,True,True,,True,False,671,0,0.0
+205,Chicago,Room in Chicago,1,2,False,True,True,True,True,True,True,True,True,True,,False,301,24,4.71
+206,Chicago,Apartment in Chicago,1,3,True,True,True,True,True,,True,True,True,True,True,False,649,15,4.13
+207,Chicago,Apartment in Chicago,1,4,False,True,True,True,True,,True,True,True,True,,True,731,6,5.0
+208,Chicago,Room in Chicago,1,2,False,True,True,True,True,True,True,True,True,True,True,False,307,34,4.97
+209,Maywood,Shared room in Maywood,1,1,False,True,True,,True,,,True,True,True,,False,149,65,4.45
+210,Chicago,Room in Chicago,1,1,False,True,True,True,True,True,True,True,,True,True,True,377,35,4.74
+211,Chicago,Room in Chicago,1,1,False,True,True,,True,True,True,True,True,,True,True,557,0,0.0
+212,Chicago,Place to stay in Chicago,1,2,False,True,True,True,True,,True,True,True,,True,False,422,3,4.67
+213,Chicago,Loft in Chicago,2,3,,True,True,True,True,,,True,True,,,False,838,3,5.0
+214,Chicago,Hotel room in Chicago,1,1,False,True,True,,,,True,True,,True,True,False,277,1325,4.55
+215,Chicago,Condo in Chicago,1,2,True,True,True,,True,,True,True,True,,,False,767,12,4.83
+216,Chicago,Room in Austin,1,1,False,True,True,True,True,True,True,True,True,True,True,False,232,36,4.81
+217,Chicago,Apartment in Near North Side,1,2,True,True,True,True,True,,True,True,True,True,True,False,1278,173,4.83
+218,Chicago,Room in Pilsen Historic District,1,1,False,True,True,True,True,True,True,True,True,,,True,393,15,5.0
+219,Chicago,Room in Austin,1,2,False,True,True,True,True,True,True,True,True,True,True,False,307,34,4.97
+220,Chicago,Apartment in Hyde Park,1,3,True,True,True,True,True,,True,True,True,True,True,False,592,20,4.3
+221,Chicago,Room in Brighton Park,1,2,False,True,True,True,True,True,True,True,True,True,,False,301,24,4.71
+222,Chicago,Room in Hyde Park,1,1,False,True,True,True,True,,True,True,True,True,True,True,666,218,4.99
+223,Chicago,Apartment in West Rogers Park,1,2,False,True,,True,True,,True,True,True,True,,True,674,9,4.78
+224,Chicago,Apartment in East Rogers Park,1,2,False,True,,True,True,,True,True,True,,True,False,671,0,0.0
+225,Chicago,Apartment in Hyde Park,1,2,False,True,True,,True,,True,True,True,True,True,False,789,28,4.71
+226,Chicago,Room in Douglas Park,1,1,False,True,True,True,True,True,,True,,,,False,269,228,4.42
+227,Chicago,Apartment in Chicago,1,2,False,True,True,True,True,,True,True,True,True,,False,473,8,5.0
+228,Chicago,Condo in Chicago,1,2,True,True,True,,True,,True,True,True,,,False,767,12,4.83
+229,Chicago,Apartment in Austin,3,4,False,True,True,True,True,,True,True,True,True,True,False,490,53,4.42
+230,Chicago,Apartment in West Rogers Park,1,4,False,True,True,True,True,,True,True,True,True,,True,731,6,5.0
+231,Chicago,Apartment in Hyde Park,1,3,True,True,True,True,True,,True,True,True,True,True,False,649,15,4.13
+232,Chicago,Place to stay in Bridgeport,1,2,False,True,True,True,True,,True,True,True,,True,False,422,3,4.67
+233,Chicago,Room in North Park,1,1,False,True,True,True,True,True,True,True,,True,True,True,377,35,4.74
+234,Chicago,Room in Chicago,1,1,False,True,True,True,True,True,True,True,True,True,True,False,232,36,4.81
+235,Chicago,Apartment in Chicago,1,2,True,True,True,True,True,,True,True,True,True,True,False,1278,173,4.83
+236,Chicago,Apartment in Chicago,1,3,True,True,True,True,True,,True,True,True,True,True,False,592,20,4.3
+237,Chicago,Room in Chicago,1,1,False,True,True,True,True,True,True,True,True,,,True,393,15,5.0
+238,Chicago,Room in Chicago,1,2,False,True,True,True,True,True,True,True,True,True,True,False,307,34,4.97
+239,Chicago,Apartment in Chicago,1,2,False,True,,True,True,,True,True,True,True,,True,674,9,4.78
+240,Chicago,Room in Chicago,1,1,False,True,True,True,True,,True,True,True,True,True,True,666,218,4.99
+241,Chicago,Room in Chicago,1,2,False,True,True,True,True,True,True,True,True,True,,False,301,24,4.71
+242,Chicago,Room in Chicago,1,1,False,True,True,True,True,True,,True,,,,False,269,228,4.42
+243,Chicago,Apartment in Chicago,1,2,False,True,True,,True,,True,True,True,True,True,False,789,28,4.71
+244,Chicago,Apartment in Chicago,1,2,False,True,,True,True,,True,True,True,,True,False,671,0,0.0
+245,Chicago,Apartment in Chicago,1,4,False,True,True,True,True,,True,True,True,True,,True,731,6,5.0
+246,Chicago,Apartment in Chicago,1,3,True,True,True,True,True,,True,True,True,True,True,False,649,15,4.13
+247,Chicago,Condo in Chicago,1,2,True,True,True,,True,,True,True,True,,,False,767,12,4.83
+248,Chicago,Apartment in Chicago,3,4,False,True,True,True,True,,True,True,True,True,True,False,490,53,4.42
+249,Chicago,Room in Chicago,1,1,False,True,True,True,True,True,True,True,,True,True,True,377,35,4.74
+250,Chicago,Place to stay in Chicago,1,2,False,True,True,True,True,,True,True,True,,True,False,422,3,4.67
+251,Chicago,Apartment in Chicago,1,2,False,True,True,True,True,,True,True,True,True,,False,473,8,5.0
+252,Chicago,Room in Chicago,1,1,False,True,True,True,True,True,True,True,True,True,True,False,232,36,4.81
+253,Chicago,Apartment in Chicago,1,3,True,True,True,True,True,,True,True,True,True,True,False,592,20,4.3
+254,Chicago,Apartment in Chicago,1,2,True,True,True,True,True,,True,True,True,True,True,False,1278,173,4.83
+255,Chicago,Room in Chicago,1,2,False,True,True,True,True,True,True,True,True,True,True,False,307,34,4.97
+256,Chicago,Room in Chicago,1,2,False,True,True,True,True,True,True,True,True,True,,False,301,24,4.71
+257,Chicago,Apartment in Chicago,3,4,False,True,True,True,True,,True,True,True,True,True,False,490,53,4.42
+258,Chicago,Apartment in Chicago,1,2,False,True,,True,True,,True,True,True,True,,True,674,9,4.78
+259,Chicago,Room in Chicago,1,1,False,True,True,True,True,True,True,True,True,,,True,393,15,5.0
+260,Chicago,Apartment in Chicago,1,3,True,True,True,True,True,,True,True,True,True,True,False,569,5,3.8
+261,Chicago,Room in Chicago,1,1,False,True,True,True,True,,True,True,True,True,True,True,666,218,4.99
+262,Chicago,Apartment in Chicago,1,2,False,True,True,True,True,,True,True,True,True,,False,473,8,5.0
+263,Maywood,Shared room in Maywood,1,1,False,True,True,,True,,,True,True,True,,False,149,65,4.45
+264,Chicago,Room in Chicago,1,1,False,True,True,True,True,True,,True,,,,False,269,228,4.42
+265,Chicago,Apartment in Chicago,1,2,False,True,True,,True,,True,True,True,True,True,False,789,28,4.71
+266,Chicago,Room in Chicago,1,3,False,True,True,True,True,True,True,True,,True,True,False,330,100,4.55
+267,Chicago,Apartment in Chicago,1,4,False,True,True,True,True,,True,True,True,True,,True,731,6,5.0
+268,Chicago,Room in Chicago,1,1,False,True,True,True,True,True,True,True,,True,True,True,377,35,4.74
+269,Chicago,Apartment in Chicago,1,3,True,True,True,True,True,,True,True,True,True,True,False,649,15,4.13

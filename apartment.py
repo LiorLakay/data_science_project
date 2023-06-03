@@ -43,14 +43,15 @@ class Apartment:
     def get_location(self):
         return self.data['metadata']['sharingConfig']['location']
 
-    def get_host_rate(self):
-        sections_list = self.data['sections']
-        for section in sections_list:
-            if section['sectionId'] == Section.HOST.value:
-                for host_stat in section['section']['cardData']['stats']:
-                    if host_stat['label'] == 'Rating':
-                        host_rate = float(host_stat['value'])
-                        return host_rate
+    # def get_host_rate(self):
+    #     sections_list = self.data['sections']
+    #     for section in sections_list:
+    #         if section['sectionId'] == Section.HOST.value:
+    #             for host_stat in section['section']['cardData']['stats']:
+    #                 if host_stat['label'] == 'Rating':
+    #                     host_rate = float(host_stat['value'])
+    #                     return host_rate
+    #     return None
 
     def get_num_of_rooms(self):
         room_type = self.data['metadata']['loggingContext']['eventDataLogging']['roomType']
@@ -97,7 +98,6 @@ class Apartment:
                         for amenity in group['amenities']:
                             if amenity['icon'] == amenity_icon_name:
                                 return amenity['available']
-        return False
 
     def get_wifi(self):
         return self._get_amenity('SYSTEM_WI_FI', 'Internet and office')

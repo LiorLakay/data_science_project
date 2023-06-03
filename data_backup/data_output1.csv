@@ -1,0 +1,271 @@
+,Location,Name,Rooms,Guests,Pets,Wifi,Free_parking,Refrigerator,Kitchen,Smoke_alarm,Cooling,Heating,TV,Bed_lines,Washer,Super_host,Price,Review_count,Total_rate
+0,Glendale,Room in Glendale,1,2,False,True,True,True,True,True,True,True,True,True,True,False,322,5,5.0
+1,Redondo Beach,Home in Redondo Beach,1,2,True,True,True,True,True,,,True,True,True,True,False,610,3,4.67
+2,Los Angeles,Guesthouse in Los Angeles,1,2,False,True,True,True,True,,True,True,True,True,,True,912,249,4.97
+3,Inglewood,Boutique hotel in Inglewood,1,2,False,True,True,,,,True,True,True,True,,False,453,1132,4.28
+4,Los Angeles,Room in Los Angeles,1,1,False,True,,True,True,,True,True,,,,False,310,4,5.0
+5,Los Angeles,Apartment in Los Angeles,1,2,False,True,,True,True,,True,True,True,True,True,True,825,135,4.95
+6,Glendale,Guest suite in Glendale,1,1,False,True,True,True,True,,True,True,True,,,True,503,100,4.98
+7,Los Angeles,Apartment in Los Angeles,1,2,True,True,True,True,True,,True,True,True,True,True,False,814,0,0.0
+8,Pasadena,Place to stay in Pasadena,1,1,False,True,True,True,True,,True,True,,,True,False,198,117,4.7
+9,West Hollywood,Apartment in West Hollywood,1,2,False,True,True,True,True,,True,,True,True,True,True,947,3,5.0
+10,West Hollywood,Condo in West Hollywood,1,2,False,True,True,True,True,,True,True,True,True,True,True,689,460,4.8
+11,Los Angeles,Guesthouse in Los Angeles,1,2,True,True,True,,,,True,,,True,,True,541,44,4.89
+12,Los Angeles,Apartment in Los Angeles,1,2,False,True,True,True,True,,True,True,True,True,True,True,1245,18,5.0
+13,Santa Monica,Apartment in Santa Monica,1,2,False,True,True,True,True,,True,True,,True,True,True,1060,7,5.0
+14,San Gabriel,Room in San Gabriel,1,2,False,True,,,True,True,True,True,,,True,True,234,35,4.97
+15,Lawndale,Room in Lawndale,1,2,False,True,True,True,True,True,True,,True,,True,False,277,0,0.0
+16,Los Angeles,Apartment in Los Angeles,1,2,True,True,,True,True,,True,True,True,,True,True,1036,8,4.88
+17,West Hollywood,Room in West Hollywood,1,2,True,True,,True,True,True,,True,,,,False,304,23,4.65
+18,Pasadena,Place to stay in Pasadena,1,1,False,True,True,True,True,,True,True,,,True,False,198,117,4.7
+19,Los Angeles,Guesthouse in Los Angeles,1,2,False,True,True,True,True,,True,True,True,True,,True,912,249,4.97
+20,Los Angeles,Room in Los Angeles,1,1,False,True,,True,True,,True,True,,,,False,310,4,5.0
+21,Glendale,Room in Glendale,1,2,False,True,True,True,True,True,True,True,True,True,True,False,322,5,5.0
+22,Redondo Beach,Home in Redondo Beach,1,2,True,True,True,True,True,,,True,True,True,True,False,610,3,4.67
+23,West Hollywood,Condo in West Hollywood,1,2,False,True,True,True,True,,True,True,True,True,True,True,689,460,4.8
+24,Los Angeles,Apartment in Los Angeles,1,2,False,True,,True,True,,True,True,True,True,True,True,825,135,4.95
+25,Glendale,Guest suite in Glendale,1,1,False,True,True,True,True,,True,True,True,,,True,503,100,4.98
+26,Inglewood,Boutique hotel in Inglewood,1,2,False,True,True,,,,True,True,True,True,,False,453,1132,4.28
+27,Santa Monica,Apartment in Santa Monica,1,2,False,True,True,True,True,,True,True,,True,True,True,1060,7,5.0
+28,West Hollywood,Apartment in West Hollywood,1,2,False,True,True,True,True,,True,,True,True,True,True,947,3,5.0
+29,Los Angeles,Guesthouse in Los Angeles,1,2,True,True,True,,,,True,,,True,,True,541,44,4.89
+30,Glendale,Home in Glendale,1,2,True,True,True,True,True,,True,True,True,True,True,False,574,2,5.0
+31,Glendale,Apartment in Glendale,1,2,True,True,True,True,True,,True,True,True,True,True,True,578,61,4.83
+32,Los Angeles,Guest suite in Los Angeles,1,2,False,True,True,,True,,,,True,True,,True,1015,157,4.83
+33,Los Angeles,Apartment in Los Angeles,1,2,True,True,,True,True,,True,True,True,,True,True,1036,8,4.88
+34,West Hollywood,Apartment in West Hollywood,1,2,False,True,,,True,,True,,True,,,False,758,0,0.0
+35,Lawndale,Room in Lawndale,1,2,False,True,True,True,True,True,True,,True,,True,False,277,0,0.0
+36,Glendale,Room in Glendale,1,2,False,True,True,True,True,True,True,True,True,True,True,False,322,5,5.0
+37,Redondo Beach,Home in Redondo Beach,1,2,True,True,True,True,True,,,True,True,True,True,False,610,3,4.67
+38,Inglewood,Boutique hotel in Inglewood,1,2,False,True,True,,,,True,True,True,True,,False,453,1132,4.28
+39,Los Angeles,Guesthouse in Los Angeles,1,2,False,True,True,True,True,,True,True,True,True,,True,912,249,4.97
+40,Los Angeles,Room in Los Angeles,1,1,False,True,,True,True,,True,True,,,,False,310,4,5.0
+41,Los Angeles,Apartment in Los Angeles,1,2,False,True,,True,True,,True,True,True,True,True,True,825,135,4.95
+42,Glendale,Guest suite in Glendale,1,1,False,True,True,True,True,,True,True,True,,,True,503,100,4.98
+43,West Hollywood,Condo in West Hollywood,1,2,False,True,True,True,True,,True,True,True,True,True,True,689,460,4.8
+44,Los Angeles,Guesthouse in Los Angeles,1,2,True,True,True,,,,True,,,True,,True,541,44,4.89
+45,Los Angeles,Apartment in Los Angeles,1,2,False,True,True,True,True,,True,True,True,True,True,True,1245,18,5.0
+46,Los Angeles,Apartment in Los Angeles,1,2,True,True,True,True,True,,True,True,True,True,True,False,814,0,0.0
+47,West Hollywood,Apartment in West Hollywood,1,2,False,True,True,True,True,,True,,True,True,True,True,947,3,5.0
+48,San Gabriel,Room in San Gabriel,1,2,False,True,,,True,True,True,True,,,True,True,234,35,4.97
+49,West Hollywood,Room in West Hollywood,1,2,True,True,,True,True,True,,True,,,,False,304,23,4.65
+50,Santa Monica,Apartment in Santa Monica,1,2,False,True,True,True,True,,True,True,,True,True,True,1060,7,5.0
+51,Pasadena,Place to stay in Pasadena,1,1,False,True,True,True,True,,True,True,,,True,False,198,117,4.7
+52,Beverly Hills,Apartment in Beverly Hills,1,2,True,True,,True,True,,True,True,True,,True,False,892,9,4.89
+53,West Hollywood,Room in West Hollywood,1,1,False,True,,True,True,,True,True,True,True,True,False,410,1,5.0
+54,Glendale,Room in Glendale,1,2,False,True,True,True,True,True,True,True,True,True,True,False,322,5,5.0
+55,Los Angeles,Guesthouse in Los Angeles,1,2,False,True,True,True,True,,True,True,True,True,,True,912,249,4.97
+56,Los Angeles,Room in Los Angeles,1,1,False,True,,True,True,,True,True,,,,False,310,4,5.0
+57,Inglewood,Boutique hotel in Inglewood,1,2,False,True,True,,,,True,True,True,True,,False,453,1132,4.28
+58,Redondo Beach,Home in Redondo Beach,1,2,True,True,True,True,True,,,True,True,True,True,False,610,3,4.67
+59,West Hollywood,Apartment in West Hollywood,1,2,False,True,True,True,True,,True,,True,True,True,True,947,3,5.0
+60,Los Angeles,Apartment in Los Angeles,1,2,False,True,,True,True,,True,True,True,True,True,True,825,135,4.95
+61,West Hollywood,Room in West Hollywood,1,2,True,True,,True,True,True,,True,,,,False,304,23,4.65
+62,Glendale,Guest suite in Glendale,1,1,False,True,True,True,True,,True,True,True,,,True,503,100,4.98
+63,Los Angeles,Apartment in Los Angeles,1,2,True,True,True,True,True,,True,True,True,True,True,False,814,0,0.0
+64,West Hollywood,Condo in West Hollywood,1,2,False,True,True,True,True,,True,True,True,True,True,True,689,460,4.8
+65,Los Angeles,Guesthouse in Los Angeles,1,2,True,True,True,,,,True,,,True,,True,541,44,4.89
+66,Santa Monica,Apartment in Santa Monica,1,2,False,True,True,True,True,,True,True,,True,True,True,1060,7,5.0
+67,Vernon,Room in Vernon,1,2,False,True,True,,True,True,True,,True,True,True,False,321,8,4.75
+68,Pasadena,Place to stay in Pasadena,1,1,False,True,True,True,True,,True,True,,,True,False,198,117,4.7
+69,Los Angeles,Apartment in Los Angeles,1,2,True,True,,True,True,,True,True,True,,True,True,1036,8,4.88
+70,San Gabriel,Room in San Gabriel,1,2,False,True,True,True,,True,True,True,,True,,True,250,148,4.88
+71,West Hollywood,Room in West Hollywood,1,1,False,True,,True,True,,True,True,True,True,True,False,410,1,5.0
+72,Glendale,Room in Glendale,1,2,False,True,True,True,True,True,True,True,True,True,True,False,322,5,5.0
+73,Redondo Beach,Home in Redondo Beach,1,2,True,True,True,True,True,,,True,True,True,True,False,610,3,4.67
+74,Los Angeles,Guesthouse in Los Angeles,1,2,False,True,True,True,True,,True,True,True,True,,True,912,249,4.97
+75,Inglewood,Boutique hotel in Inglewood,1,2,False,True,True,,,,True,True,True,True,,False,453,1132,4.28
+76,Los Angeles,Room in Los Angeles,1,1,False,True,,True,True,,True,True,,,,False,310,4,5.0
+77,Los Angeles,Apartment in Los Angeles,1,2,False,True,,True,True,,True,True,True,True,True,True,825,135,4.95
+78,Glendale,Guest suite in Glendale,1,1,False,True,True,True,True,,True,True,True,,,True,503,100,4.98
+79,Los Angeles,Apartment in Los Angeles,1,2,True,True,True,True,True,,True,True,True,True,True,False,814,0,0.0
+80,Pasadena,Place to stay in Pasadena,1,1,False,True,True,True,True,,True,True,,,True,False,198,117,4.7
+81,West Hollywood,Apartment in West Hollywood,1,2,False,True,True,True,True,,True,,True,True,True,True,947,3,5.0
+82,West Hollywood,Condo in West Hollywood,1,2,False,True,True,True,True,,True,True,True,True,True,True,689,460,4.8
+83,Los Angeles,Guesthouse in Los Angeles,1,2,True,True,True,,,,True,,,True,,True,541,44,4.89
+84,Los Angeles,Apartment in Los Angeles,1,2,False,True,True,True,True,,True,True,True,True,True,True,1245,18,5.0
+85,Santa Monica,Apartment in Santa Monica,1,2,False,True,True,True,True,,True,True,,True,True,True,1060,7,5.0
+86,San Gabriel,Room in San Gabriel,1,2,False,True,,,True,True,True,True,,,True,True,234,35,4.97
+87,Lawndale,Room in Lawndale,1,2,False,True,True,True,True,True,True,,True,,True,False,277,0,0.0
+88,Los Angeles,Apartment in Los Angeles,1,2,True,True,,True,True,,True,True,True,,True,True,1036,8,4.88
+89,West Hollywood,Room in West Hollywood,1,2,True,True,,True,True,True,,True,,,,False,304,23,4.65
+90,Los Angeles,Room in Los Angeles,1,1,False,True,,True,True,,True,True,,,,False,310,4,5.0
+91,Los Angeles,Guesthouse in Los Angeles,1,2,False,True,True,True,True,,True,True,True,True,,True,912,249,4.97
+92,Glendale,Room in Glendale,1,2,False,True,True,True,True,True,True,True,True,True,True,False,322,5,5.0
+93,West Hollywood,Condo in West Hollywood,1,2,False,True,True,True,True,,True,True,True,True,True,True,689,460,4.8
+94,Pasadena,Place to stay in Pasadena,1,1,False,True,True,True,True,,True,True,,,True,False,198,117,4.7
+95,Redondo Beach,Home in Redondo Beach,1,2,True,True,True,True,True,,,True,True,True,True,False,610,3,4.67
+96,Los Angeles,Apartment in Los Angeles,1,2,False,True,,True,True,,True,True,True,True,True,True,825,135,4.95
+97,Inglewood,Boutique hotel in Inglewood,1,2,False,True,True,,,,True,True,True,True,,False,453,1132,4.28
+98,Glendale,Guest suite in Glendale,1,1,False,True,True,True,True,,True,True,True,,,True,503,100,4.98
+99,Santa Monica,Apartment in Santa Monica,1,2,False,True,True,True,True,,True,True,,True,True,True,1060,7,5.0
+100,Los Angeles,Guesthouse in Los Angeles,1,2,True,True,True,,,,True,,,True,,True,541,44,4.89
+101,West Hollywood,Apartment in West Hollywood,1,2,False,True,,,True,,True,,True,,,False,758,0,0.0
+102,Los Angeles,Guest suite in Los Angeles,1,2,False,True,True,,True,,,,True,True,,True,1015,157,4.83
+103,Glendale,Apartment in Glendale,1,2,True,True,True,True,True,,True,True,True,True,True,True,578,61,4.83
+104,Glendale,Home in Glendale,1,2,True,True,True,True,True,,True,True,True,True,True,False,574,2,5.0
+105,West Hollywood,Apartment in West Hollywood,1,2,False,True,True,True,True,,True,,True,True,True,True,947,3,5.0
+106,Los Angeles,Apartment in Los Angeles,1,2,True,True,,True,True,,True,True,True,,True,True,1036,8,4.88
+107,West Hollywood,Room in West Hollywood,1,1,False,True,,True,True,,True,True,True,True,True,False,410,1,5.0
+108,Pasadena,Place to stay in Pasadena,1,1,False,True,True,True,True,,True,True,,,True,False,198,117,4.7
+109,Los Angeles,Guesthouse in Los Angeles,1,2,False,True,True,True,True,,True,True,True,True,,True,912,249,4.97
+110,Los Angeles,Room in Los Angeles,1,1,False,True,,True,True,,True,True,,,,False,310,4,5.0
+111,Glendale,Room in Glendale,1,2,False,True,True,True,True,True,True,True,True,True,True,False,322,5,5.0
+112,Redondo Beach,Home in Redondo Beach,1,2,True,True,True,True,True,,,True,True,True,True,False,610,3,4.67
+113,West Hollywood,Condo in West Hollywood,1,2,False,True,True,True,True,,True,True,True,True,True,True,689,460,4.8
+114,Los Angeles,Apartment in Los Angeles,1,2,False,True,,True,True,,True,True,True,True,True,True,825,135,4.95
+115,Glendale,Guest suite in Glendale,1,1,False,True,True,True,True,,True,True,True,,,True,503,100,4.98
+116,Inglewood,Boutique hotel in Inglewood,1,2,False,True,True,,,,True,True,True,True,,False,453,1132,4.28
+117,Santa Monica,Apartment in Santa Monica,1,2,False,True,True,True,True,,True,True,,True,True,True,1060,7,5.0
+118,West Hollywood,Apartment in West Hollywood,1,2,False,True,True,True,True,,True,,True,True,True,True,947,3,5.0
+119,Los Angeles,Guesthouse in Los Angeles,1,2,True,True,True,,,,True,,,True,,True,541,44,4.89
+120,Glendale,Home in Glendale,1,2,True,True,True,True,True,,True,True,True,True,True,False,574,2,5.0
+121,Glendale,Apartment in Glendale,1,2,True,True,True,True,True,,True,True,True,True,True,True,578,61,4.83
+122,Los Angeles,Guest suite in Los Angeles,1,2,False,True,True,,True,,,,True,True,,True,1015,157,4.83
+123,Los Angeles,Apartment in Los Angeles,1,2,True,True,,True,True,,True,True,True,,True,True,1036,8,4.88
+124,West Hollywood,Apartment in West Hollywood,1,2,False,True,,,True,,True,,True,,,False,758,0,0.0
+125,Lawndale,Room in Lawndale,1,2,False,True,True,True,True,True,True,,True,,True,False,277,0,0.0
+126,Glendale,Room in Glendale,1,2,False,True,True,True,True,True,True,True,True,True,True,False,322,5,5.0
+127,Los Angeles,Guesthouse in Los Angeles,1,2,False,True,True,True,True,,True,True,True,True,,True,912,249,4.97
+128,Los Angeles,Room in Los Angeles,1,1,False,True,,True,True,,True,True,,,,False,310,4,5.0
+129,Inglewood,Boutique hotel in Inglewood,1,2,False,True,True,,,,True,True,True,True,,False,453,1132,4.28
+130,Redondo Beach,Home in Redondo Beach,1,2,True,True,True,True,True,,,True,True,True,True,False,610,3,4.67
+131,West Hollywood,Apartment in West Hollywood,1,2,False,True,True,True,True,,True,,True,True,True,True,947,3,5.0
+132,Los Angeles,Apartment in Los Angeles,1,2,False,True,,True,True,,True,True,True,True,True,True,825,135,4.95
+133,West Hollywood,Room in West Hollywood,1,2,True,True,,True,True,True,,True,,,,False,304,23,4.65
+134,Glendale,Guest suite in Glendale,1,1,False,True,True,True,True,,True,True,True,,,True,503,100,4.98
+135,Los Angeles,Apartment in Los Angeles,1,2,True,True,True,True,True,,True,True,True,True,True,False,814,0,0.0
+136,West Hollywood,Condo in West Hollywood,1,2,False,True,True,True,True,,True,True,True,True,True,True,689,460,4.8
+137,Los Angeles,Guesthouse in Los Angeles,1,2,True,True,True,,,,True,,,True,,True,541,44,4.89
+138,Santa Monica,Apartment in Santa Monica,1,2,False,True,True,True,True,,True,True,,True,True,True,1060,7,5.0
+139,Vernon,Room in Vernon,1,2,False,True,True,,True,True,True,,True,True,True,False,321,8,4.75
+140,Pasadena,Place to stay in Pasadena,1,1,False,True,True,True,True,,True,True,,,True,False,198,117,4.7
+141,Los Angeles,Apartment in Los Angeles,1,2,True,True,,True,True,,True,True,True,,True,True,1036,8,4.88
+142,San Gabriel,Room in San Gabriel,1,2,False,True,True,True,,True,True,True,,True,,True,250,148,4.88
+143,West Hollywood,Room in West Hollywood,1,1,False,True,,True,True,,True,True,True,True,True,False,410,1,5.0
+144,Glendale,Room in Glendale,1,2,False,True,True,True,True,True,True,True,True,True,True,False,322,5,5.0
+145,Los Angeles,Guesthouse in Los Angeles,1,2,False,True,True,True,True,,True,True,True,True,,True,912,249,4.97
+146,Los Angeles,Room in Los Angeles,1,1,False,True,,True,True,,True,True,,,,False,310,4,5.0
+147,Inglewood,Boutique hotel in Inglewood,1,2,False,True,True,,,,True,True,True,True,,False,453,1132,4.28
+148,West Hollywood,Apartment in West Hollywood,1,2,False,True,True,True,True,,True,,True,True,True,True,947,3,5.0
+149,Redondo Beach,Home in Redondo Beach,1,2,True,True,True,True,True,,,True,True,True,True,False,610,3,4.67
+150,Los Angeles,Apartment in Los Angeles,1,2,True,True,True,True,True,,True,True,True,True,True,False,814,0,0.0
+151,Los Angeles,Apartment in Los Angeles,1,2,False,True,,True,True,,True,True,True,True,True,True,825,135,4.95
+152,Glendale,Guest suite in Glendale,1,1,False,True,True,True,True,,True,True,True,,,True,503,100,4.98
+153,Santa Monica,Apartment in Santa Monica,1,2,False,True,True,True,True,,True,True,,True,True,True,1060,7,5.0
+154,Los Angeles,Guesthouse in Los Angeles,1,2,True,True,True,,,,True,,,True,,True,541,44,4.89
+155,West Hollywood,Room in West Hollywood,1,2,True,True,,True,True,True,,True,,,,False,304,23,4.65
+156,Pasadena,Place to stay in Pasadena,1,1,False,True,True,True,True,,True,True,,,True,False,198,117,4.7
+157,West Hollywood,Condo in West Hollywood,1,2,False,True,True,True,True,,True,True,True,True,True,True,689,460,4.8
+158,Los Angeles,Apartment in Los Angeles,1,2,True,True,,True,True,,True,True,True,,True,True,1036,8,4.88
+159,Vernon,Room in Vernon,1,2,False,True,True,,True,True,True,,True,True,True,False,321,8,4.75
+160,San Gabriel,Room in San Gabriel,1,2,False,True,True,True,,True,True,True,,True,,True,250,148,4.88
+161,Beverly Hills,Apartment in Beverly Hills,2,3,False,True,True,True,True,,True,True,True,True,True,False,663,0,0.0
+162,Los Angeles,Room in Los Angeles,1,1,False,True,,True,True,,True,True,,,,False,310,4,5.0
+163,Los Angeles,Guesthouse in Los Angeles,1,2,False,True,True,True,True,,True,True,True,True,,True,912,249,4.97
+164,Glendale,Room in Glendale,1,2,False,True,True,True,True,True,True,True,True,True,True,False,322,5,5.0
+165,West Hollywood,Condo in West Hollywood,1,2,False,True,True,True,True,,True,True,True,True,True,True,689,460,4.8
+166,Pasadena,Place to stay in Pasadena,1,1,False,True,True,True,True,,True,True,,,True,False,198,117,4.7
+167,Redondo Beach,Home in Redondo Beach,1,2,True,True,True,True,True,,,True,True,True,True,False,610,3,4.67
+168,Los Angeles,Apartment in Los Angeles,1,2,False,True,,True,True,,True,True,True,True,True,True,825,135,4.95
+169,Inglewood,Boutique hotel in Inglewood,1,2,False,True,True,,,,True,True,True,True,,False,453,1132,4.28
+170,Glendale,Guest suite in Glendale,1,1,False,True,True,True,True,,True,True,True,,,True,503,100,4.98
+171,Santa Monica,Apartment in Santa Monica,1,2,False,True,True,True,True,,True,True,,True,True,True,1060,7,5.0
+172,Los Angeles,Guesthouse in Los Angeles,1,2,True,True,True,,,,True,,,True,,True,541,44,4.89
+173,West Hollywood,Apartment in West Hollywood,1,2,False,True,,,True,,True,,True,,,False,758,0,0.0
+174,Los Angeles,Guest suite in Los Angeles,1,2,False,True,True,,True,,,,True,True,,True,1015,157,4.83
+175,Glendale,Apartment in Glendale,1,2,True,True,True,True,True,,True,True,True,True,True,True,578,61,4.83
+176,Glendale,Home in Glendale,1,2,True,True,True,True,True,,True,True,True,True,True,False,574,2,5.0
+177,West Hollywood,Apartment in West Hollywood,1,2,False,True,True,True,True,,True,,True,True,True,True,947,3,5.0
+178,Los Angeles,Apartment in Los Angeles,1,2,True,True,,True,True,,True,True,True,,True,True,1036,8,4.88
+179,West Hollywood,Room in West Hollywood,1,1,False,True,,True,True,,True,True,True,True,True,False,410,1,5.0
+180,Glendale,Room in Glendale,1,2,False,True,True,True,True,True,True,True,True,True,True,False,322,5,5.0
+181,Los Angeles,Guesthouse in Los Angeles,1,2,False,True,True,True,True,,True,True,True,True,,True,912,249,4.97
+182,Los Angeles,Room in Los Angeles,1,1,False,True,,True,True,,True,True,,,,False,310,4,5.0
+183,Inglewood,Boutique hotel in Inglewood,1,2,False,True,True,,,,True,True,True,True,,False,453,1132,4.28
+184,West Hollywood,Apartment in West Hollywood,1,2,False,True,True,True,True,,True,,True,True,True,True,947,3,5.0
+185,Redondo Beach,Home in Redondo Beach,1,2,True,True,True,True,True,,,True,True,True,True,False,610,3,4.67
+186,Los Angeles,Apartment in Los Angeles,1,2,True,True,True,True,True,,True,True,True,True,True,False,814,0,0.0
+187,Los Angeles,Apartment in Los Angeles,1,2,False,True,,True,True,,True,True,True,True,True,True,825,135,4.95
+188,Glendale,Guest suite in Glendale,1,1,False,True,True,True,True,,True,True,True,,,True,503,100,4.98
+189,Santa Monica,Apartment in Santa Monica,1,2,False,True,True,True,True,,True,True,,True,True,True,1060,7,5.0
+190,Los Angeles,Guesthouse in Los Angeles,1,2,True,True,True,,,,True,,,True,,True,541,44,4.89
+191,West Hollywood,Room in West Hollywood,1,2,True,True,,True,True,True,,True,,,,False,304,23,4.65
+192,Pasadena,Place to stay in Pasadena,1,1,False,True,True,True,True,,True,True,,,True,False,198,117,4.7
+193,West Hollywood,Condo in West Hollywood,1,2,False,True,True,True,True,,True,True,True,True,True,True,689,460,4.8
+194,Los Angeles,Apartment in Los Angeles,1,2,True,True,,True,True,,True,True,True,,True,True,1036,8,4.88
+195,Vernon,Room in Vernon,1,2,False,True,True,,True,True,True,,True,True,True,False,321,8,4.75
+196,San Gabriel,Room in San Gabriel,1,2,False,True,True,True,,True,True,True,,True,,True,250,148,4.88
+197,Beverly Hills,Apartment in Beverly Hills,2,3,False,True,True,True,True,,True,True,True,True,True,False,663,0,0.0
+198,Los Angeles,Room in Los Angeles,1,1,False,True,,True,True,,True,True,,,,False,310,4,5.0
+199,Los Angeles,Guesthouse in Los Angeles,1,2,False,True,True,True,True,,True,True,True,True,,True,912,249,4.97
+200,Glendale,Room in Glendale,1,2,False,True,True,True,True,True,True,True,True,True,True,False,322,5,5.0
+201,West Hollywood,Condo in West Hollywood,1,2,False,True,True,True,True,,True,True,True,True,True,True,689,460,4.8
+202,Pasadena,Place to stay in Pasadena,1,1,False,True,True,True,True,,True,True,,,True,False,198,117,4.7
+203,Redondo Beach,Home in Redondo Beach,1,2,True,True,True,True,True,,,True,True,True,True,False,610,3,4.67
+204,Los Angeles,Apartment in Los Angeles,1,2,False,True,,True,True,,True,True,True,True,True,True,825,135,4.95
+205,Inglewood,Boutique hotel in Inglewood,1,2,False,True,True,,,,True,True,True,True,,False,453,1132,4.28
+206,Glendale,Guest suite in Glendale,1,1,False,True,True,True,True,,True,True,True,,,True,503,100,4.98
+207,Santa Monica,Apartment in Santa Monica,1,2,False,True,True,True,True,,True,True,,True,True,True,1060,7,5.0
+208,Los Angeles,Guesthouse in Los Angeles,1,2,True,True,True,,,,True,,,True,,True,541,44,4.89
+209,West Hollywood,Apartment in West Hollywood,1,2,False,True,,,True,,True,,True,,,False,758,0,0.0
+210,Los Angeles,Guest suite in Los Angeles,1,2,False,True,True,,True,,,,True,True,,True,1015,157,4.83
+211,Glendale,Apartment in Glendale,1,2,True,True,True,True,True,,True,True,True,True,True,True,578,61,4.83
+212,Glendale,Home in Glendale,1,2,True,True,True,True,True,,True,True,True,True,True,False,574,2,5.0
+213,West Hollywood,Apartment in West Hollywood,1,2,False,True,True,True,True,,True,,True,True,True,True,947,3,5.0
+214,Los Angeles,Apartment in Los Angeles,1,2,True,True,,True,True,,True,True,True,,True,True,1036,8,4.88
+215,West Hollywood,Room in West Hollywood,1,1,False,True,,True,True,,True,True,True,True,True,False,410,1,5.0
+216,Los Angeles,Room in Los Angeles,1,1,False,True,,True,True,,True,True,,,,False,310,4,5.0
+217,Redondo Beach,Home in Redondo Beach,1,2,True,True,True,True,True,,,True,True,True,True,False,610,3,4.67
+218,Glendale,Room in Glendale,1,2,False,True,True,True,True,True,True,True,True,True,True,False,322,5,5.0
+219,Los Angeles,Guesthouse in Los Angeles,1,2,False,True,True,True,True,,True,True,True,True,,True,912,249,4.97
+220,Pasadena,Place to stay in Pasadena,1,1,False,True,True,True,True,,True,True,,,True,False,198,117,4.7
+221,Inglewood,Boutique hotel in Inglewood,1,2,False,True,True,,,,True,True,True,True,,False,453,1132,4.28
+222,Glendale,Guest suite in Glendale,1,1,False,True,True,True,True,,True,True,True,,,True,503,100,4.98
+223,Los Angeles,Guesthouse in Los Angeles,1,2,True,True,True,,,,True,,,True,,True,541,44,4.89
+224,Hacienda Heights,Room in Hacienda Heights,1,2,False,True,True,,,True,True,True,,True,,True,162,139,4.73
+225,Redondo Beach,Apartment in Redondo Beach,1,2,True,True,True,,True,,,,True,,,False,425,0,0.0
+226,Los Angeles,Room in Los Angeles,1,2,False,True,True,True,True,True,True,True,True,True,True,True,266,1,5.0
+227,Lawndale,Room in Lawndale,1,2,False,True,True,True,True,True,True,,True,,True,False,277,0,0.0
+228,San Gabriel,Room in San Gabriel,1,2,False,True,,,True,True,True,True,,,True,True,234,35,4.97
+229,Los Angeles,Guesthouse in Los Angeles,1,2,False,True,True,True,True,,True,True,True,True,True,False,618,0,0.0
+230,Los Angeles,Hotel in Los Angeles,1,1,False,True,True,True,True,,True,True,True,True,True,False,239,2,5.0
+231,Los Angeles,Apartment in Los Angeles,1,2,False,True,True,True,True,,True,True,True,True,True,False,738,27,4.81
+232,Los Angeles,Apartment in Los Angeles,1,2,False,True,,True,True,,True,True,True,True,True,True,825,135,4.95
+233,Glendale,Home in Glendale,1,2,True,True,True,True,True,,True,True,True,True,True,False,574,2,5.0
+234,Pasadena,Place to stay in Pasadena,1,1,False,True,True,True,True,,True,True,,,True,False,198,117,4.7
+235,Los Angeles,Guesthouse in Los Angeles,1,2,False,True,True,True,True,,True,True,True,True,,True,912,249,4.97
+236,Los Angeles,Room in Los Angeles,1,1,False,True,,True,True,,True,True,,,,False,310,4,5.0
+237,Glendale,Room in Glendale,1,2,False,True,True,True,True,True,True,True,True,True,True,False,322,5,5.0
+238,Redondo Beach,Home in Redondo Beach,1,2,True,True,True,True,True,,,True,True,True,True,False,610,3,4.67
+239,West Hollywood,Condo in West Hollywood,1,2,False,True,True,True,True,,True,True,True,True,True,True,689,460,4.8
+240,Los Angeles,Apartment in Los Angeles,1,2,False,True,,True,True,,True,True,True,True,True,True,825,135,4.95
+241,Glendale,Guest suite in Glendale,1,1,False,True,True,True,True,,True,True,True,,,True,503,100,4.98
+242,Inglewood,Boutique hotel in Inglewood,1,2,False,True,True,,,,True,True,True,True,,False,453,1132,4.28
+243,Santa Monica,Apartment in Santa Monica,1,2,False,True,True,True,True,,True,True,,True,True,True,1060,7,5.0
+244,West Hollywood,Apartment in West Hollywood,1,2,False,True,True,True,True,,True,,True,True,True,True,947,3,5.0
+245,Los Angeles,Guesthouse in Los Angeles,1,2,True,True,True,,,,True,,,True,,True,541,44,4.89
+246,Glendale,Home in Glendale,1,2,True,True,True,True,True,,True,True,True,True,True,False,574,2,5.0
+247,Glendale,Apartment in Glendale,1,2,True,True,True,True,True,,True,True,True,True,True,True,578,61,4.83
+248,Los Angeles,Guest suite in Los Angeles,1,2,False,True,True,,True,,,,True,True,,True,1015,157,4.83
+249,Los Angeles,Apartment in Los Angeles,1,2,True,True,,True,True,,True,True,True,,True,True,1036,8,4.88
+250,West Hollywood,Apartment in West Hollywood,1,2,False,True,,,True,,True,,True,,,False,758,0,0.0
+251,Lawndale,Room in Lawndale,1,2,False,True,True,True,True,True,True,,True,,True,False,277,0,0.0
+252,Los Angeles,Room in Los Angeles,1,1,False,True,,True,True,,True,True,,,,False,310,4,5.0
+253,Los Angeles,Guesthouse in Los Angeles,1,2,False,True,True,True,True,,True,True,True,True,,True,912,249,4.97
+254,Glendale,Room in Glendale,1,2,False,True,True,True,True,True,True,True,True,True,True,False,322,5,5.0
+255,West Hollywood,Condo in West Hollywood,1,2,False,True,True,True,True,,True,True,True,True,True,True,689,460,4.8
+256,Pasadena,Place to stay in Pasadena,1,1,False,True,True,True,True,,True,True,,,True,False,198,117,4.7
+257,Redondo Beach,Home in Redondo Beach,1,2,True,True,True,True,True,,,True,True,True,True,False,610,3,4.67
+258,Los Angeles,Apartment in Los Angeles,1,2,False,True,,True,True,,True,True,True,True,True,True,825,135,4.95
+259,Inglewood,Boutique hotel in Inglewood,1,2,False,True,True,,,,True,True,True,True,,False,453,1132,4.28
+260,Glendale,Guest suite in Glendale,1,1,False,True,True,True,True,,True,True,True,,,True,503,100,4.98
+261,Santa Monica,Apartment in Santa Monica,1,2,False,True,True,True,True,,True,True,,True,True,True,1060,7,5.0
+262,Los Angeles,Guesthouse in Los Angeles,1,2,True,True,True,,,,True,,,True,,True,541,44,4.89
+263,West Hollywood,Apartment in West Hollywood,1,2,False,True,,,True,,True,,True,,,False,758,0,0.0
+264,Los Angeles,Guest suite in Los Angeles,1,2,False,True,True,,True,,,,True,True,,True,1015,157,4.83
+265,Glendale,Apartment in Glendale,1,2,True,True,True,True,True,,True,True,True,True,True,True,578,61,4.83
+266,Glendale,Home in Glendale,1,2,True,True,True,True,True,,True,True,True,True,True,False,574,2,5.0
+267,West Hollywood,Apartment in West Hollywood,1,2,False,True,True,True,True,,True,,True,True,True,True,947,3,5.0
+268,Los Angeles,Apartment in Los Angeles,1,2,True,True,,True,True,,True,True,True,,True,True,1036,8,4.88
+269,West Hollywood,Room in West Hollywood,1,1,False,True,,True,True,,True,True,True,True,True,False,410,1,5.0

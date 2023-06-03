@@ -1,0 +1,271 @@
+,Location,Name,Rooms,Guests,Pets,Wifi,Free_parking,Refrigerator,Kitchen,Smoke_alarm,Cooling,Heating,TV,Bed_lines,Washer,Super_host,Price,Review_count,Total_rate
+0,Seattle,Apartment in Seattle,1,2,False,True,True,True,True,,True,True,,True,True,True,603,0,0.0
+1,Seattle,Apartment in Seattle,1,4,False,True,True,True,True,,True,True,True,,True,False,630,48,4.77
+2,Seattle,Room in Seattle,1,2,False,True,True,,,True,True,True,True,True,True,True,394,166,4.95
+3,Seattle,Home in Seattle,1,4,False,True,True,True,True,,,True,True,True,True,True,503,85,4.92
+4,Federal Way,Apartment in Federal Way,2,4,False,True,True,True,True,,True,True,True,True,True,False,682,0,0.0
+5,Seattle,Condo in Seattle,1,2,False,True,,True,True,,True,True,True,True,True,False,1213,0,0.0
+6,Seattle,Guest suite in Seattle,2,4,False,True,True,,,,,True,True,True,,False,674,49,4.78
+7,Seattle,Apartment in Seattle,2,4,True,True,True,True,True,,,True,True,True,True,False,1118,105,4.64
+8,Seattle,Condo in Seattle,2,4,False,True,True,True,True,,True,True,True,True,True,True,1235,83,4.81
+9,Seattle,Apartment in Seattle,2,4,False,True,True,,True,,True,,True,,True,False,653,0,0.0
+10,Seattle,Loft in Seattle,1,4,False,True,True,True,,,,True,True,True,True,False,873,303,4.72
+11,Seattle,Apartment in Seattle,1,2,False,True,,True,True,,,True,True,,True,False,1113,77,4.53
+12,Seattle,Guesthouse in Seattle,1,2,True,True,True,True,True,,True,True,True,True,,True,709,85,4.98
+13,Seattle,Room in Seattle,1,2,False,True,True,True,True,,True,True,,True,True,True,833,40,5.0
+14,Seattle,Apartment in Seattle,1,3,False,True,True,True,True,,,True,,True,True,False,790,185,4.68
+15,Bellevue,Guesthouse in Bellevue,1,2,False,True,True,True,True,,True,True,True,True,True,False,597,0,0.0
+16,Seattle,Guest suite in Seattle,1,3,False,True,True,True,True,,True,True,True,True,True,True,584,131,4.84
+17,Seattle,Place to stay in Seattle,1,3,False,True,True,,True,,,True,True,,,False,450,0,0.0
+18,Federal Way,Apartment in Federal Way,2,4,False,True,True,True,True,,True,True,True,True,True,False,682,0,0.0
+19,Seattle,Apartment in Seattle,1,4,False,True,True,True,True,,True,True,True,,True,False,630,48,4.77
+20,Seattle,Apartment in Seattle,1,2,False,True,True,True,True,,True,True,,True,True,True,603,0,0.0
+21,Seattle,Room in Seattle,1,2,False,True,True,,,True,True,True,True,True,True,True,394,166,4.95
+22,Seattle,Home in Seattle,1,4,False,True,True,True,True,,,True,True,True,True,True,503,85,4.92
+23,Seattle,Guest suite in Seattle,2,4,False,True,True,,,,,True,True,True,,False,674,49,4.78
+24,Bellevue,Guesthouse in Bellevue,1,2,False,True,True,True,True,,True,True,True,True,True,False,597,0,0.0
+25,Seattle,Guesthouse in Seattle,1,2,True,True,True,True,True,,True,True,True,True,,True,709,85,4.98
+26,Seattle,Guest suite in Seattle,1,3,False,True,True,True,True,,True,True,True,True,True,True,584,131,4.84
+27,Seattle,Apartment in Seattle,2,4,True,True,True,True,True,,,True,True,True,True,False,1118,105,4.64
+28,Seattle,Apartment in Seattle,2,4,False,True,True,,True,,True,,True,,True,False,653,0,0.0
+29,Shoreline,Guesthouse in Shoreline,1,2,False,True,True,True,True,,True,True,True,True,True,True,740,88,4.89
+30,Seattle,Apartment in Seattle,1,2,False,True,,True,True,,,True,True,,True,False,1113,77,4.53
+31,Seattle,Place to stay in Seattle,1,3,False,True,True,,True,,,True,True,,,False,450,0,0.0
+32,Seattle,Loft in Seattle,1,4,False,True,True,True,,,,True,True,True,True,False,873,303,4.72
+33,Kent,Guest suite in Kent,1,3,False,True,True,True,True,,,True,True,True,True,False,506,9,4.56
+34,Seattle,Guest suite in Seattle,1,2,False,True,True,True,,,True,True,True,True,,True,724,190,4.88
+35,Des Moines,Apartment in Des Moines,2,4,False,True,True,True,True,,,True,True,True,True,False,689,62,4.58
+36,Seattle,Apartment in Seattle,1,2,False,True,True,True,True,,True,True,,True,True,True,603,0,0.0
+37,Seattle,Room in Seattle,1,2,False,True,True,,,True,True,True,True,True,True,True,394,166,4.95
+38,Seattle,Apartment in Seattle,1,4,False,True,True,True,True,,True,True,True,,True,False,630,48,4.77
+39,Seattle,Apartment in Seattle,2,4,True,True,True,True,True,,,True,True,True,True,False,1118,105,4.64
+40,Federal Way,Apartment in Federal Way,2,4,False,True,True,True,True,,True,True,True,True,True,False,682,0,0.0
+41,Seattle,Guest suite in Seattle,2,4,False,True,True,,,,,True,True,True,,False,674,49,4.78
+42,Seattle,Home in Seattle,1,4,False,True,True,True,True,,,True,True,True,True,True,503,85,4.92
+43,Seattle,Condo in Seattle,2,4,False,True,True,True,True,,True,True,True,True,True,True,1235,83,4.81
+44,Seattle,Apartment in Seattle,2,4,False,True,True,,True,,True,,True,,True,False,653,0,0.0
+45,Seattle,Room in Seattle,1,2,,True,True,True,True,True,,True,,True,True,True,534,12,4.92
+46,Seattle,Apartment in Seattle,1,2,False,True,,True,True,,,True,True,,True,False,1113,77,4.53
+47,Seattle,Loft in Seattle,1,4,False,True,True,True,,,,True,True,True,True,False,873,303,4.72
+48,Seattle,Condo in Seattle,1,2,False,True,,True,True,,True,True,True,True,True,False,1213,0,0.0
+49,Seattle,Guesthouse in Seattle,1,2,True,True,True,True,True,,True,True,True,True,,True,709,85,4.98
+50,Seattle,Guest suite in Seattle,1,3,False,True,True,True,True,,True,True,True,True,True,True,584,131,4.84
+51,Seattle,Apartment in Seattle,1,3,False,True,True,True,True,,,True,,True,True,False,790,185,4.68
+52,Bellevue,Guesthouse in Bellevue,1,2,False,True,True,True,True,,True,True,True,True,True,False,597,0,0.0
+53,Seattle,Room in Seattle,1,2,False,True,True,True,True,,True,True,,True,True,True,833,40,5.0
+54,Seattle,Room in Seattle,1,2,False,True,True,,,True,True,True,True,True,True,True,394,166,4.95
+55,Seattle,Apartment in Seattle,1,4,False,True,True,True,True,,True,True,True,,True,False,630,48,4.77
+56,Seattle,Apartment in Seattle,2,4,True,True,True,True,True,,,True,True,True,True,False,1118,105,4.64
+57,Federal Way,Apartment in Federal Way,2,4,False,True,True,True,True,,True,True,True,True,True,False,682,0,0.0
+58,Seattle,Guest suite in Seattle,2,4,False,True,True,,,,,True,True,True,,False,674,49,4.78
+59,Seattle,Home in Seattle,1,4,False,True,True,True,True,,,True,True,True,True,True,503,85,4.92
+60,Seattle,Apartment in Seattle,2,4,False,True,True,,True,,True,,True,,True,False,653,0,0.0
+61,Seattle,Condo in Seattle,2,4,False,True,True,True,True,,True,True,True,True,True,True,1235,83,4.81
+62,Seattle,Room in Seattle,1,2,,True,True,True,True,True,,True,,True,True,True,534,12,4.92
+63,Seattle,Apartment in Seattle,1,2,False,True,,True,True,,,True,True,,True,False,1113,77,4.53
+64,Seattle,Loft in Seattle,1,4,False,True,True,True,,,,True,True,True,True,False,873,303,4.72
+65,Seattle,Guest suite in Seattle,1,3,False,True,True,True,True,,True,True,True,True,True,True,584,131,4.84
+66,Seattle,Guesthouse in Seattle,1,2,True,True,True,True,True,,True,True,True,True,,True,709,85,4.98
+67,Seattle,Condo in Seattle,1,2,False,True,,True,True,,True,True,True,True,True,False,1213,0,0.0
+68,Bellevue,Guesthouse in Bellevue,1,2,False,True,True,True,True,,True,True,True,True,True,False,597,0,0.0
+69,Seattle,Apartment in Seattle,1,3,False,True,True,True,True,,,True,,True,True,False,790,185,4.68
+70,Seattle,Room in Seattle,1,2,False,True,True,True,True,,True,True,,True,True,True,833,40,5.0
+71,Lake Forest Park,Room in Lake Forest Park,1,1,False,True,True,True,True,,,True,,,True,False,265,6,4.83
+72,Seattle,Apartment in Seattle,1,4,False,True,True,True,True,,True,True,True,,True,False,630,48,4.77
+73,Seattle,Home in Seattle,1,4,False,True,True,True,True,,,True,True,True,True,True,503,85,4.92
+74,Seattle,Room in Seattle,1,2,False,True,True,,,True,True,True,True,True,True,True,394,166,4.95
+75,Federal Way,Apartment in Federal Way,2,4,False,True,True,True,True,,True,True,True,True,True,False,682,0,0.0
+76,Seattle,Guest suite in Seattle,2,4,False,True,True,,,,,True,True,True,,False,674,49,4.78
+77,Seattle,Condo in Seattle,1,2,False,True,,True,True,,True,True,True,True,True,False,1213,0,0.0
+78,Seattle,Apartment in Seattle,2,4,True,True,True,True,True,,,True,True,True,True,False,1118,105,4.64
+79,Seattle,Condo in Seattle,2,4,False,True,True,True,True,,True,True,True,True,True,True,1235,83,4.81
+80,Seattle,Apartment in Seattle,2,4,False,True,True,,True,,True,,True,,True,False,653,0,0.0
+81,Seattle,Loft in Seattle,1,4,False,True,True,True,,,,True,True,True,True,False,873,303,4.72
+82,Seattle,Apartment in Seattle,1,2,False,True,,True,True,,,True,True,,True,False,1113,77,4.53
+83,Seattle,Guesthouse in Seattle,1,2,True,True,True,True,True,,True,True,True,True,,True,709,85,4.98
+84,Seattle,Room in Seattle,1,2,False,True,True,True,True,,True,True,,True,True,True,833,40,5.0
+85,Seattle,Apartment in Seattle,1,3,False,True,True,True,True,,,True,,True,True,False,790,185,4.68
+86,Bellevue,Guesthouse in Bellevue,1,2,False,True,True,True,True,,True,True,True,True,True,False,597,0,0.0
+87,Seattle,Guest suite in Seattle,1,3,False,True,True,True,True,,True,True,True,True,True,True,584,131,4.84
+88,Seattle,Place to stay in Seattle,1,3,False,True,True,,True,,,True,True,,,False,450,0,0.0
+89,Seattle,Room in Seattle,1,2,,True,True,True,True,True,,True,,True,True,True,534,12,4.92
+90,Seattle,Room in Seattle,1,2,False,True,True,,,True,True,True,True,True,True,True,394,166,4.95
+91,Seattle,Apartment in Seattle,1,4,False,True,True,True,True,,True,True,True,,True,False,630,48,4.77
+92,Seattle,Apartment in Seattle,2,4,True,True,True,True,True,,,True,True,True,True,False,1118,105,4.64
+93,Federal Way,Apartment in Federal Way,2,4,False,True,True,True,True,,True,True,True,True,True,False,682,0,0.0
+94,Seattle,Guest suite in Seattle,2,4,False,True,True,,,,,True,True,True,,False,674,49,4.78
+95,Seattle,Home in Seattle,1,4,False,True,True,True,True,,,True,True,True,True,True,503,85,4.92
+96,Seattle,Apartment in Seattle,2,4,False,True,True,,True,,True,,True,,True,False,653,0,0.0
+97,Seattle,Condo in Seattle,2,4,False,True,True,True,True,,True,True,True,True,True,True,1235,83,4.81
+98,Seattle,Room in Seattle,1,2,,True,True,True,True,True,,True,,True,True,True,534,12,4.92
+99,Seattle,Apartment in Seattle,1,2,False,True,,True,True,,,True,True,,True,False,1113,77,4.53
+100,Seattle,Loft in Seattle,1,4,False,True,True,True,,,,True,True,True,True,False,873,303,4.72
+101,Seattle,Guest suite in Seattle,1,3,False,True,True,True,True,,True,True,True,True,True,True,584,131,4.84
+102,Seattle,Guesthouse in Seattle,1,2,True,True,True,True,True,,True,True,True,True,,True,709,85,4.98
+103,Seattle,Condo in Seattle,1,2,False,True,,True,True,,True,True,True,True,True,False,1213,0,0.0
+104,Bellevue,Guesthouse in Bellevue,1,2,False,True,True,True,True,,True,True,True,True,True,False,597,0,0.0
+105,Seattle,Apartment in Seattle,1,3,False,True,True,True,True,,,True,,True,True,False,790,185,4.68
+106,Seattle,Room in Seattle,1,2,False,True,True,True,True,,True,True,,True,True,True,833,40,5.0
+107,Lake Forest Park,Room in Lake Forest Park,1,1,False,True,True,True,True,,,True,,,True,False,265,6,4.83
+108,Seattle,Apartment in Seattle,1,4,False,True,True,True,True,,True,True,True,,True,False,630,48,4.77
+109,Seattle,Room in Seattle,1,2,False,True,True,,,True,True,True,True,True,True,True,394,166,4.95
+110,Seattle,Apartment in Seattle,2,4,True,True,True,True,True,,,True,True,True,True,False,1118,105,4.64
+111,Federal Way,Apartment in Federal Way,2,4,False,True,True,True,True,,True,True,True,True,True,False,682,0,0.0
+112,Seattle,Condo in Seattle,1,2,False,True,,True,True,,True,True,True,True,True,False,1213,0,0.0
+113,Seattle,Guest suite in Seattle,2,4,False,True,True,,,,,True,True,True,,False,674,49,4.78
+114,Seattle,Condo in Seattle,2,4,False,True,True,True,True,,True,True,True,True,True,True,1235,83,4.81
+115,Seattle,Home in Seattle,1,4,False,True,True,True,True,,,True,True,True,True,True,503,85,4.92
+116,Seattle,Apartment in Seattle,1,2,False,True,,True,True,,,True,True,,True,False,1113,77,4.53
+117,Seattle,Loft in Seattle,1,4,False,True,True,True,,,,True,True,True,True,False,873,303,4.72
+118,Seattle,Apartment in Seattle,1,3,False,True,True,True,True,,,True,,True,True,False,790,185,4.68
+119,Seattle,Guesthouse in Seattle,1,2,True,True,True,True,True,,True,True,True,True,,True,709,85,4.98
+120,Seattle,Apartment in Seattle,2,4,False,True,True,,True,,True,,True,,True,False,653,0,0.0
+121,Bellevue,Guesthouse in Bellevue,1,2,False,True,True,True,True,,True,True,True,True,True,False,597,0,0.0
+122,Seattle,Guest suite in Seattle,1,3,False,True,True,True,True,,True,True,True,True,True,True,584,131,4.84
+123,Seattle,Room in Seattle,1,2,False,True,True,True,True,,True,True,,True,True,True,833,40,5.0
+124,Seattle,Room in Seattle,1,2,,True,True,True,True,True,,True,,True,True,True,534,12,4.92
+125,Lake Forest Park,Room in Lake Forest Park,1,1,False,True,True,True,True,,,True,,,True,False,265,6,4.83
+126,Seattle,Room in Seattle,1,2,False,True,True,,,True,True,True,True,True,True,True,394,166,4.95
+127,Seattle,Apartment in Seattle,1,4,False,True,True,True,True,,True,True,True,,True,False,630,48,4.77
+128,Seattle,Apartment in Seattle,2,4,True,True,True,True,True,,,True,True,True,True,False,1118,105,4.64
+129,Federal Way,Apartment in Federal Way,2,4,False,True,True,True,True,,True,True,True,True,True,False,682,0,0.0
+130,Seattle,Guest suite in Seattle,2,4,False,True,True,,,,,True,True,True,,False,674,49,4.78
+131,Seattle,Home in Seattle,1,4,False,True,True,True,True,,,True,True,True,True,True,503,85,4.92
+132,Seattle,Apartment in Seattle,2,4,False,True,True,,True,,True,,True,,True,False,653,0,0.0
+133,Seattle,Condo in Seattle,2,4,False,True,True,True,True,,True,True,True,True,True,True,1235,83,4.81
+134,Seattle,Room in Seattle,1,2,,True,True,True,True,True,,True,,True,True,True,534,12,4.92
+135,Seattle,Apartment in Seattle,1,2,False,True,,True,True,,,True,True,,True,False,1113,77,4.53
+136,Seattle,Loft in Seattle,1,4,False,True,True,True,,,,True,True,True,True,False,873,303,4.72
+137,Seattle,Guest suite in Seattle,1,3,False,True,True,True,True,,True,True,True,True,True,True,584,131,4.84
+138,Seattle,Guesthouse in Seattle,1,2,True,True,True,True,True,,True,True,True,True,,True,709,85,4.98
+139,Seattle,Condo in Seattle,1,2,False,True,,True,True,,True,True,True,True,True,False,1213,0,0.0
+140,Bellevue,Guesthouse in Bellevue,1,2,False,True,True,True,True,,True,True,True,True,True,False,597,0,0.0
+141,Seattle,Apartment in Seattle,1,3,False,True,True,True,True,,,True,,True,True,False,790,185,4.68
+142,Seattle,Room in Seattle,1,2,False,True,True,True,True,,True,True,,True,True,True,833,40,5.0
+143,Lake Forest Park,Room in Lake Forest Park,1,1,False,True,True,True,True,,,True,,,True,False,265,6,4.83
+144,Seattle,Room in Seattle,1,2,False,True,True,,,True,True,True,True,True,True,True,394,166,4.95
+145,Seattle,Apartment in Seattle,1,4,False,True,True,True,True,,True,True,True,,True,False,630,48,4.77
+146,Seattle,Home in Seattle,1,4,False,True,True,True,True,,,True,True,True,True,True,503,85,4.92
+147,Federal Way,Apartment in Federal Way,2,4,False,True,True,True,True,,True,True,True,True,True,False,682,0,0.0
+148,Seattle,Guest suite in Seattle,2,4,False,True,True,,,,,True,True,True,,False,674,49,4.78
+149,Seattle,Guesthouse in Seattle,1,2,True,True,True,True,True,,True,True,True,True,,True,709,85,4.98
+150,Seattle,Apartment in Seattle,2,4,True,True,True,True,True,,,True,True,True,True,False,1118,105,4.64
+151,Seattle,Guest suite in Seattle,1,3,False,True,True,True,True,,True,True,True,True,True,True,584,131,4.84
+152,Seattle,Apartment in Seattle,2,4,False,True,True,,True,,True,,True,,True,False,653,0,0.0
+153,Seattle,Apartment in Seattle,1,3,False,True,True,True,True,,,True,,True,True,False,790,185,4.68
+154,Seattle,Condo in Seattle,1,2,False,True,,True,True,,True,True,True,True,True,False,1213,0,0.0
+155,Seattle,Condo in Seattle,2,4,False,True,True,True,True,,True,True,True,True,True,True,1235,83,4.81
+156,Seattle,Room in Seattle,1,2,,True,True,True,True,True,,True,,True,True,True,534,12,4.92
+157,Seattle,Loft in Seattle,1,4,False,True,True,True,,,,True,True,True,True,False,873,303,4.72
+158,Seattle,Apartment in Seattle,1,2,False,True,,True,True,,,True,True,,True,False,1113,77,4.53
+159,Bellevue,Guesthouse in Bellevue,1,2,False,True,True,True,True,,True,True,True,True,True,False,597,0,0.0
+160,Seattle,Place to stay in Seattle,1,3,False,True,True,,True,,,True,True,,,False,450,0,0.0
+161,SeaTac,Room in SeaTac,1,2,True,True,True,True,True,True,,True,True,True,True,False,299,11,5.0
+162,Seattle,Apartment in Seattle,1,4,False,True,True,True,True,,True,True,True,,True,False,630,48,4.77
+163,Seattle,Room in Seattle,1,2,False,True,True,,,True,True,True,True,True,True,True,394,166,4.95
+164,Seattle,Apartment in Seattle,2,4,True,True,True,True,True,,,True,True,True,True,False,1118,105,4.64
+165,Federal Way,Apartment in Federal Way,2,4,False,True,True,True,True,,True,True,True,True,True,False,682,0,0.0
+166,Seattle,Condo in Seattle,1,2,False,True,,True,True,,True,True,True,True,True,False,1213,0,0.0
+167,Seattle,Guest suite in Seattle,2,4,False,True,True,,,,,True,True,True,,False,674,49,4.78
+168,Seattle,Condo in Seattle,2,4,False,True,True,True,True,,True,True,True,True,True,True,1235,83,4.81
+169,Seattle,Home in Seattle,1,4,False,True,True,True,True,,,True,True,True,True,True,503,85,4.92
+170,Seattle,Apartment in Seattle,1,2,False,True,,True,True,,,True,True,,True,False,1113,77,4.53
+171,Seattle,Loft in Seattle,1,4,False,True,True,True,,,,True,True,True,True,False,873,303,4.72
+172,Seattle,Apartment in Seattle,1,3,False,True,True,True,True,,,True,,True,True,False,790,185,4.68
+173,Seattle,Guesthouse in Seattle,1,2,True,True,True,True,True,,True,True,True,True,,True,709,85,4.98
+174,Seattle,Apartment in Seattle,2,4,False,True,True,,True,,True,,True,,True,False,653,0,0.0
+175,Bellevue,Guesthouse in Bellevue,1,2,False,True,True,True,True,,True,True,True,True,True,False,597,0,0.0
+176,Seattle,Guest suite in Seattle,1,3,False,True,True,True,True,,True,True,True,True,True,True,584,131,4.84
+177,Seattle,Room in Seattle,1,2,False,True,True,True,True,,True,True,,True,True,True,833,40,5.0
+178,Seattle,Room in Seattle,1,2,,True,True,True,True,True,,True,,True,True,True,534,12,4.92
+179,Lake Forest Park,Room in Lake Forest Park,1,1,False,True,True,True,True,,,True,,,True,False,265,6,4.83
+180,Seattle,Apartment in Seattle,1,4,False,True,True,True,True,,True,True,True,,True,False,630,48,4.77
+181,Federal Way,Apartment in Federal Way,2,4,False,True,True,True,True,,True,True,True,True,True,False,682,0,0.0
+182,Seattle,Room in Seattle,1,2,False,True,True,,,True,True,True,True,True,True,True,394,166,4.95
+183,Seattle,Home in Seattle,1,4,False,True,True,True,True,,,True,True,True,True,True,503,85,4.92
+184,Seattle,Guest suite in Seattle,2,4,False,True,True,,,,,True,True,True,,False,674,49,4.78
+185,Seattle,Guest suite in Seattle,1,3,False,True,True,True,True,,True,True,True,True,True,True,584,131,4.84
+186,Bellevue,Guesthouse in Bellevue,1,2,False,True,True,True,True,,True,True,True,True,True,False,597,0,0.0
+187,Seattle,Apartment in Seattle,2,4,False,True,True,,True,,True,,True,,True,False,653,0,0.0
+188,Seattle,Guesthouse in Seattle,1,2,True,True,True,True,True,,True,True,True,True,,True,709,85,4.98
+189,Seattle,Apartment in Seattle,2,4,True,True,True,True,True,,,True,True,True,True,False,1118,105,4.64
+190,Seattle,Place to stay in Seattle,1,3,False,True,True,,True,,,True,True,,,False,450,0,0.0
+191,Shoreline,Guesthouse in Shoreline,1,2,False,True,True,True,True,,True,True,True,True,True,True,740,88,4.89
+192,Kent,Guest suite in Kent,1,3,False,True,True,True,True,,,True,True,True,True,False,506,9,4.56
+193,Seattle,Room in Seattle,1,2,,True,True,True,True,True,,True,,True,True,True,534,12,4.92
+194,Seattle,Guest suite in Seattle,2,4,False,True,True,,,,True,True,True,True,,False,616,24,4.75
+195,Seattle,Apartment in Seattle,1,2,False,True,,True,True,,,True,True,,True,False,1113,77,4.53
+196,Seattle,Loft in Seattle,1,4,False,True,True,True,,,,True,True,True,True,False,873,303,4.72
+197,Des Moines,Apartment in Des Moines,2,4,False,True,True,True,True,,,True,True,True,True,False,689,62,4.58
+198,Seattle,Room in Seattle,1,2,False,True,True,,,True,True,True,True,True,True,True,394,166,4.95
+199,Seattle,Apartment in Seattle,1,4,False,True,True,True,True,,True,True,True,,True,False,630,48,4.77
+200,Seattle,Apartment in Seattle,2,4,True,True,True,True,True,,,True,True,True,True,False,1118,105,4.64
+201,Federal Way,Apartment in Federal Way,2,4,False,True,True,True,True,,True,True,True,True,True,False,682,0,0.0
+202,Seattle,Guest suite in Seattle,2,4,False,True,True,,,,,True,True,True,,False,674,49,4.78
+203,Seattle,Home in Seattle,1,4,False,True,True,True,True,,,True,True,True,True,True,503,85,4.92
+204,Seattle,Apartment in Seattle,2,4,False,True,True,,True,,True,,True,,True,False,653,0,0.0
+205,Seattle,Condo in Seattle,2,4,False,True,True,True,True,,True,True,True,True,True,True,1235,83,4.81
+206,Seattle,Room in Seattle,1,2,,True,True,True,True,True,,True,,True,True,True,534,12,4.92
+207,Seattle,Apartment in Seattle,1,2,False,True,,True,True,,,True,True,,True,False,1113,77,4.53
+208,Seattle,Loft in Seattle,1,4,False,True,True,True,,,,True,True,True,True,False,873,303,4.72
+209,Seattle,Guest suite in Seattle,1,3,False,True,True,True,True,,True,True,True,True,True,True,584,131,4.84
+210,Seattle,Guesthouse in Seattle,1,2,True,True,True,True,True,,True,True,True,True,,True,709,85,4.98
+211,Seattle,Condo in Seattle,1,2,False,True,,True,True,,True,True,True,True,True,False,1213,0,0.0
+212,Bellevue,Guesthouse in Bellevue,1,2,False,True,True,True,True,,True,True,True,True,True,False,597,0,0.0
+213,Seattle,Apartment in Seattle,1,3,False,True,True,True,True,,,True,,True,True,False,790,185,4.68
+214,Seattle,Room in Seattle,1,2,False,True,True,True,True,,True,True,,True,True,True,833,40,5.0
+215,Lake Forest Park,Room in Lake Forest Park,1,1,False,True,True,True,True,,,True,,,True,False,265,6,4.83
+216,Seattle,Apartment in Seattle,1,4,False,True,True,True,True,,True,True,True,,True,False,630,48,4.77
+217,Seattle,Room in Seattle,1,2,False,True,True,,,True,True,True,True,True,True,True,394,166,4.95
+218,Seattle,Apartment in Seattle,2,4,True,True,True,True,True,,,True,True,True,True,False,1118,105,4.64
+219,Federal Way,Apartment in Federal Way,2,4,False,True,True,True,True,,True,True,True,True,True,False,682,0,0.0
+220,Seattle,Condo in Seattle,1,2,False,True,,True,True,,True,True,True,True,True,False,1213,0,0.0
+221,Seattle,Guest suite in Seattle,2,4,False,True,True,,,,,True,True,True,,False,674,49,4.78
+222,Seattle,Condo in Seattle,2,4,False,True,True,True,True,,True,True,True,True,True,True,1235,83,4.81
+223,Seattle,Home in Seattle,1,4,False,True,True,True,True,,,True,True,True,True,True,503,85,4.92
+224,Seattle,Apartment in Seattle,1,2,False,True,,True,True,,,True,True,,True,False,1113,77,4.53
+225,Seattle,Loft in Seattle,1,4,False,True,True,True,,,,True,True,True,True,False,873,303,4.72
+226,Seattle,Apartment in Seattle,1,3,False,True,True,True,True,,,True,,True,True,False,790,185,4.68
+227,Seattle,Guesthouse in Seattle,1,2,True,True,True,True,True,,True,True,True,True,,True,709,85,4.98
+228,Seattle,Apartment in Seattle,2,4,False,True,True,,True,,True,,True,,True,False,653,0,0.0
+229,Bellevue,Guesthouse in Bellevue,1,2,False,True,True,True,True,,True,True,True,True,True,False,597,0,0.0
+230,Seattle,Guest suite in Seattle,1,3,False,True,True,True,True,,True,True,True,True,True,True,584,131,4.84
+231,Seattle,Room in Seattle,1,2,False,True,True,True,True,,True,True,,True,True,True,833,40,5.0
+232,Seattle,Room in Seattle,1,2,,True,True,True,True,True,,True,,True,True,True,534,12,4.92
+233,Lake Forest Park,Room in Lake Forest Park,1,1,False,True,True,True,True,,,True,,,True,False,265,6,4.83
+234,Seattle,Apartment in Seattle,1,4,False,True,True,True,True,,True,True,True,,True,False,630,48,4.77
+235,Federal Way,Apartment in Federal Way,2,4,False,True,True,True,True,,True,True,True,True,True,False,682,0,0.0
+236,Seattle,Home in Seattle,1,4,False,True,True,True,True,,,True,True,True,True,True,503,85,4.92
+237,Seattle,Room in Seattle,1,2,False,True,True,,,True,True,True,True,True,True,True,394,166,4.95
+238,Seattle,Guest suite in Seattle,2,4,False,True,True,,,,,True,True,True,,False,674,49,4.78
+239,Bellevue,Guesthouse in Bellevue,1,2,False,True,True,True,True,,True,True,True,True,True,False,597,0,0.0
+240,Seattle,Guest suite in Seattle,1,3,False,True,True,True,True,,True,True,True,True,True,True,584,131,4.84
+241,Seattle,Guesthouse in Seattle,1,2,True,True,True,True,True,,True,True,True,True,,True,709,85,4.98
+242,Seattle,Apartment in Seattle,2,4,True,True,True,True,True,,,True,True,True,True,False,1118,105,4.64
+243,Seattle,Apartment in Seattle,2,4,False,True,True,,True,,True,,True,,True,False,653,0,0.0
+244,Shoreline,Guesthouse in Shoreline,1,2,False,True,True,True,True,,True,True,True,True,True,True,740,88,4.89
+245,Seattle,Apartment in Seattle,1,2,False,True,,True,True,,,True,True,,True,False,1113,77,4.53
+246,Seattle,Place to stay in Seattle,1,3,False,True,True,,True,,,True,True,,,False,450,0,0.0
+247,Seattle,Loft in Seattle,1,4,False,True,True,True,,,,True,True,True,True,False,873,303,4.72
+248,Kent,Guest suite in Kent,1,3,False,True,True,True,True,,,True,True,True,True,False,506,9,4.56
+249,Seattle,Guest suite in Seattle,1,2,False,True,True,True,,,True,True,True,True,,True,724,190,4.88
+250,Edmonds,Condo in Edmonds,2,4,False,True,True,True,True,,,True,True,True,True,False,742,0,0.0
+251,Des Moines,Apartment in Des Moines,2,4,False,True,True,True,True,,,True,True,True,True,False,689,62,4.58
+252,Seattle,Apartment in Seattle,1,4,False,True,True,True,True,,True,True,True,,True,False,630,48,4.77
+253,Seattle,Room in Seattle,1,2,False,True,True,,,True,True,True,True,True,True,True,394,166,4.95
+254,Seattle,Apartment in Seattle,2,4,True,True,True,True,True,,,True,True,True,True,False,1118,105,4.64
+255,Federal Way,Apartment in Federal Way,2,4,False,True,True,True,True,,True,True,True,True,True,False,682,0,0.0
+256,Seattle,Condo in Seattle,1,2,False,True,,True,True,,True,True,True,True,True,False,1213,0,0.0
+257,Seattle,Guest suite in Seattle,2,4,False,True,True,,,,,True,True,True,,False,674,49,4.78
+258,Seattle,Condo in Seattle,2,4,False,True,True,True,True,,True,True,True,True,True,True,1235,83,4.81
+259,Seattle,Home in Seattle,1,4,False,True,True,True,True,,,True,True,True,True,True,503,85,4.92
+260,Seattle,Apartment in Seattle,1,2,False,True,,True,True,,,True,True,,True,False,1113,77,4.53
+261,Seattle,Loft in Seattle,1,4,False,True,True,True,,,,True,True,True,True,False,873,303,4.72
+262,Seattle,Apartment in Seattle,1,3,False,True,True,True,True,,,True,,True,True,False,790,185,4.68
+263,Seattle,Guesthouse in Seattle,1,2,True,True,True,True,True,,True,True,True,True,,True,709,85,4.98
+264,Seattle,Apartment in Seattle,2,4,False,True,True,,True,,True,,True,,True,False,653,0,0.0
+265,Bellevue,Guesthouse in Bellevue,1,2,False,True,True,True,True,,True,True,True,True,True,False,597,0,0.0
+266,Seattle,Guest suite in Seattle,1,3,False,True,True,True,True,,True,True,True,True,True,True,584,131,4.84
+267,Seattle,Room in Seattle,1,2,False,True,True,True,True,,True,True,,True,True,True,833,40,5.0
+268,Seattle,Room in Seattle,1,2,,True,True,True,True,True,,True,,True,True,True,534,12,4.92
+269,Lake Forest Park,Room in Lake Forest Park,1,1,False,True,True,True,True,,,True,,,True,False,265,6,4.83
